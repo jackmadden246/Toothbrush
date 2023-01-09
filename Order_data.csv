@@ -1,0 +1,1185 @@
+Order Number,Toothbrush Type,Order Date,Customer Age,Order Quantity,Delivery Postcode,Billing Postcode,Dispatch Status,Dispatch Date,Delivery Status,Delivery Date
+BRU00008051,Toothbrush 4000,2022/12/02,25,5,G82 201QL,GL12 8QB,Order Received,2022/12/02,Unavailable,
+BRU00007805,Toothbrush 2000,2022/12/02,62,6,EN1 201NF,EX17 4SJ,Order Received,2022/12/02,Unavailable,
+BRU00007680,Toothbrush 4000,2022/12/01,33,6,B19 201AL,GU7 3QQ,Order Received,2022/12/01,Unavailable,
+BRU00007742,Toothbrush 4000,2022/12/01,23,7,GU35 200QF,DD4 7BZ,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007915,Toothbrush 4000,2022/12/02,32,9,CF14 201UB,B74 3PB,Order Confirmed,2022/12/02,Unavailable,
+BRU00007996,Toothbrush 4000,2022/12/02,19,2,CA7 209EX,CO4 5BB,Order Received,2022/12/02,Unavailable,
+BRU00007978,Toothbrush 2000,2022/12/01,84,9,CF64 202WH,DT1 9TL,Order Received,2022/12/01,Unavailable,
+BRU00008252,Toothbrush 4000,2022/12/02,19,7,CB11 204TT,GU47 0UY,Order Confirmed,2022/12/02,Unavailable,
+BRU00008116,Toothbrush 2000,2022/12/01,74,3,CO6 204HF,B93 9LW,Order Received,2022/12/01,Unavailable,
+BRU00008253,Toothbrush 4000,2022/12/02,21,9,DE11 207JA,CF31 1QQ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007695,Toothbrush 4000,2022/12/01,22,5,CM16 207NB,CM1 1NW,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007997,Toothbrush 4000,2022/12/02,27,4,DY7 206BF,CW2 8RQ,Dispatched,2022/12/03,Unsuccessful,2022/12/04
+BRU00007747,Toothbrush 4000,2022/12/02,29,5,IP12 204LF,EN11 9NS,Order Received,2022/12/02,Unavailable,
+BRU00007929,Toothbrush 4000,2022/12/02,32,9,CF3 205DG,HU5 5YZ,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007831,Toothbrush 2000,2022/12/01,72,5,BA5 202SJ,CF5 1FX,Order Received,2022/12/01,Unavailable,
+BRU00007833,Toothbrush 4000,2022/12/02,27,8,EX4 208FS,DN15 9TH,Order Received,2022/12/02,Unavailable,
+BRU00007812,Toothbrush 4000,2022/12/02,37,1,CO2 207JD,EH13 0JB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008003,Toothbrush 2000,2022/12/02,53,2,CV7 207QU,EX16 5LD,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007895,Toothbrush 4000,2022/12/02,31,2,EH12 207NE,CT18 7WD,Order Received,2022/12/02,Unavailable,
+BRU00007735,Toothbrush 2000,2022/12/01,81,5,AL1 205SF,HA3 6UB,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00008083,Toothbrush 2000,2022/12/01,54,2,EH11 203AD,BD8 9NX,Order Received,2022/12/01,Unavailable,
+BRU00008005,Toothbrush 4000,2022/12/02,41,1,BN15 208JF,DN18 5QJ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007881,Toothbrush 4000,2022/12/02,25,5,CH46 202RX,CF10 5FZ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007708,Toothbrush 2000,2022/12/01,92,7,BA13 203XS,DN4 0TY,Order Confirmed,2022/12/01,Unavailable,
+BRU00008167,Toothbrush 4000,2022/12/02,25,2,AB39 202ZH,HA5 3WA,Order Confirmed,2022/12/02,Unavailable,
+BRU00008010,Toothbrush 2000,2022/12/01,49,2,AB21 200XS,GU1 4PH,Order Confirmed,2022/12/01,Unavailable,
+BRU00007885,Toothbrush 2000,2022/12/01,57,9,HX3 208TW,CH41 2SB,Order Received,2022/12/01,Unavailable,
+BRU00007689,Toothbrush 4000,2022/12/02,31,9,EN1 201DB,BR1 5AP,Order Confirmed,2022/12/02,Unavailable,
+BRU00008043,Toothbrush 2000,2022/12/02,72,5,BD1 202ER,GU51 3BD,Order Confirmed,2022/12/02,Unavailable,
+BRU00008119,Toothbrush 4000,2022/12/02,11,9,BN11 201UF,CB23 6GF,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008106,Toothbrush 4000,2022/12/03,29,6,G76 207BP,G67 3HU,Order Confirmed,2022/12/03,Unavailable,
+BRU00007718,Toothbrush 2000,2022/12/01,80,5,CM7 205SZ,CH45 3JF,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007862,Toothbrush 4000,2022/12/02,25,1,B75 206AS,EH47 7JH,Order Received,2022/12/02,Unavailable,
+BRU00007905,Toothbrush 4000,2022/12/01,35,2,GL3 204FD,DA11 7DR,Order Received,2022/12/01,Unavailable,
+BRU00008105,Toothbrush 4000,2022/12/01,24,5,FY3 207GZ,B11 1PR,Order Received,2022/12/01,Unavailable,
+BRU00008237,Toothbrush 4000,2022/12/02,24,9,CM1 202SY,CV8 2RT,Order Received,2022/12/02,Unavailable,
+BRU00008062,Toothbrush 4000,2022/12/01,36,6,CB23 207DL,CT19 5SN,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00007926,Toothbrush 4000,2022/12/02,26,7,CT15 207AG,CM13 1YH,Dispatched,2022/12/03,Unsuccessful,2022/12/03
+BRU00007683,Toothbrush 2000,2022/12/01,76,1,EH48 203SX,CT14 9TB,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007965,Toothbrush 2000,2022/12/02,86,1,CB9 200BT,DN31 3ET,Order Confirmed,2022/12/02,Unavailable,
+BRU00008127,Toothbrush 2000,2022/12/02,79,9,BS7 200PA,BL0 9LW,Order Confirmed,2022/12/02,Unavailable,
+BRU00007879,Toothbrush 2000,2022/12/01,78,2,FY1 206EB,BD20 6LB,Order Confirmed,2022/12/01,Unavailable,
+BRU00007846,Toothbrush 4000,2022/12/01,33,9,DH7 207BN,CF62 8DW,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00008184,Toothbrush 4000,2022/12/02,35,8,CT4 207DS,BD18 3QD,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008161,Toothbrush 4000,2022/12/01,35,9,EN10 206SA,DD1 4LD,Order Received,2022/12/01,Unavailable,
+BRU00007806,Toothbrush 2000,2022/12/02,64,7,HA1 202RS,EN5 3HZ,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00008163,Toothbrush 4000,2022/12/02,18,9,B20 202ER,BH21 7HG,Order Confirmed,2022/12/02,Unavailable,
+BRU00008032,Toothbrush 4000,2022/12/02,36,5,G72 208NX,HA5 2LT,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008142,Toothbrush 4000,2022/12/02,16,2,HU12 200SE,CB21 5DE,Order Confirmed,2022/12/02,Unavailable,
+BRU00008065,Toothbrush 4000,2022/12/02,13,2,IP13 209AW,CO9 1EH,Order Confirmed,2022/12/03,Unavailable,
+BRU00008250,Toothbrush 2000,2022/12/01,76,4,GL1 203LN,BS48 3PT,Order Confirmed,2022/12/01,Unavailable,
+BRU00008204,Toothbrush 4000,2022/12/01,22,8,BL8 202UN,G64 2NJ,Order Received,2022/12/01,Unavailable,
+BRU00008191,Toothbrush 4000,2022/12/02,27,9,AB21 209BS,B29 4LN,Order Received,2022/12/02,Unavailable,
+BRU00008070,Toothbrush 2000,2022/12/02,49,6,HU17 208HG,CT14 7AY,Order Received,2022/12/02,Unavailable,
+BRU00007745,Toothbrush 4000,2022/12/02,22,2,CH61 200HF,BB10 1RJ,Order Received,2022/12/02,Unavailable,
+BRU00007955,Toothbrush 4000,2022/12/01,41,6,FY2 209BZ,BN3 7AA,Order Confirmed,2022/12/01,Unavailable,
+BRU00008120,Toothbrush 2000,2022/12/02,82,3,GL3 202LH,DN19 7EL,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008273,Toothbrush 4000,2022/12/01,31,5,CT21 204JW,BS48 2NP,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00008207,Toothbrush 2000,2022/12/02,69,7,BA7 207HS,EH7 5JH,Order Confirmed,2022/12/02,Unavailable,
+BRU00008272,Toothbrush 4000,2022/12/02,34,2,BN8 204BP,CM16 7PS,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007749,Toothbrush 4000,2022/12/02,36,8,B49 205LJ,GL52 6BJ,Order Received,2022/12/02,Unavailable,
+BRU00007872,Toothbrush 4000,2022/12/02,25,4,AB11 205EG,HG3 5LR,Dispatched,2022/12/03,Delivered,2022/12/04
+BRU00008048,Toothbrush 2000,2022/12/01,99,8,BB18 205EH,DG16 5FJ,Order Received,2022/12/01,Unavailable,
+BRU00007825,Toothbrush 2000,2022/12/01,65,5,BN1 208AE,HD1 5QE,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007723,Toothbrush 4000,2022/12/02,22,6,BS34 207PL,BD13 4DN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008278,Toothbrush 2000,2022/12/01,69,7,CM23 205LT,DE45 1FG,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007781,Toothbrush 4000,2022/12/02,35,2,BH12 205DU,BN25 1JS,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007971,Toothbrush 4000,2022/12/02,24,1,BN20 208JY,E3 3GR,Order Confirmed,2022/12/02,Unavailable,
+BRU00007832,Toothbrush 4000,2022/12/02,33,5,BL9 209SZ,CV10 9GY,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007987,Toothbrush 2000,2022/12/01,56,8,EN11 200JR,DL15 0JS,Order Confirmed,2022/12/01,Unavailable,
+BRU00008007,Toothbrush 4000,2022/12/01,18,5,BS7 200AP,CT18 7AB,Order Received,2022/12/01,Unavailable,
+BRU00008160,Toothbrush 4000,2022/12/02,26,8,HA0 203QD,GL54 4JD,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008020,Toothbrush 4000,2022/12/02,22,7,GL13 209LD,AB37 9EA,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008143,Toothbrush 4000,2022/12/02,31,7,CM9 208US,HD2 2HY,Dispatched,2022/12/03,Unsuccessful,2022/12/03
+BRU00008015,Toothbrush 2000,2022/12/02,70,7,BA7 207EX,B50 4AQ,Order Confirmed,2022/12/02,Unavailable,
+BRU00008060,Toothbrush 4000,2022/12/02,22,1,CO4 205YZ,BS4 4AJ,Order Received,2022/12/02,Unavailable,
+BRU00007807,Toothbrush 4000,2022/12/02,24,2,CT17 200ED,EX14 2GN,Order Received,2022/12/02,Unavailable,
+BRU00007840,Toothbrush 4000,2022/12/01,23,9,CA15 208AR,CO3 3RY,Order Received,2022/12/01,Unavailable,
+BRU00007816,Toothbrush 4000,2022/12/02,19,8,EH3 206QA,CO3 8AL,Order Received,2022/12/02,Unavailable,
+BRU00007784,Toothbrush 4000,2022/12/02,33,9,GU35 209NN,BS1 6TB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008159,Toothbrush 4000,2022/12/02,23,3,CB22 203TF,BS41 9HR,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008053,Toothbrush 4000,2022/12/02,36,2,DA17 206HL,B71 2AJ,Order Confirmed,2022/12/02,Unavailable,
+BRU00007824,Toothbrush 4000,2022/12/02,30,4,FK8 202QJ,IP29 4PG,Order Confirmed,2022/12/02,Unavailable,
+BRU00008214,Toothbrush 2000,2022/12/01,67,3,CH45 202JF,B6 5NU,Order Received,2022/12/01,Unavailable,
+BRU00008056,Toothbrush 4000,2022/12/02,26,2,EH48 203BL,HP22 6ED,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007802,Toothbrush 2000,2022/12/01,68,1,BH20 207BY,G52 2PP,Order Received,2022/12/01,Unavailable,
+BRU00008113,Toothbrush 2000,2022/12/02,97,3,FK2 209YA,BS20 8DW,Order Confirmed,2022/12/02,Unavailable,
+BRU00008180,Toothbrush 4000,2022/12/01,36,6,CV4 209AP,CM2 9QX,Order Confirmed,2022/12/01,Unavailable,
+BRU00008153,Toothbrush 2000,2022/12/01,60,9,G1 202SD,BB2 7LR,Order Confirmed,2022/12/01,Unavailable,
+BRU00008174,Toothbrush 2000,2022/12/01,67,3,BS4 204RL,CT3 1HR,Order Confirmed,2022/12/01,Unavailable,
+BRU00008254,Toothbrush 4000,2022/12/02,27,3,CF44 207DN,GL17 0SJ,Order Received,2022/12/02,Unavailable,
+BRU00007811,Toothbrush 2000,2022/12/02,60,7,AB56 205EN,DE55 7DQ,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00008077,Toothbrush 4000,2022/12/02,15,1,CV11 205JT,HR6 0HL,Order Received,2022/12/02,Unavailable,
+BRU00007921,Toothbrush 4000,2022/12/01,15,8,B42 202TG,BB4 9AQ,Order Received,2022/12/01,Unavailable,
+BRU00008089,Toothbrush 4000,2022/12/02,22,3,B72 201JU,G81 6QY,Order Received,2022/12/02,Unavailable,
+BRU00008244,Toothbrush 2000,2022/12/01,61,2,GL52 202AJ,CO3 0SA,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008240,Toothbrush 2000,2022/12/02,56,3,CH1 209SP,CH4 7DN,Order Received,2022/12/02,Unavailable,
+BRU00007943,Toothbrush 4000,2022/12/02,24,7,DL12 200LG,HU11 5RN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008144,Toothbrush 2000,2022/12/02,74,5,E1 202ET,GL53 7NQ,Order Received,2022/12/02,Unavailable,
+BRU00007792,Toothbrush 4000,2022/12/01,26,9,FK3 208SZ,FY1 4QW,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007985,Toothbrush 2000,2022/12/01,93,1,CH42 204NZ,G1 5PD,Order Received,2022/12/01,Unavailable,
+BRU00007984,Toothbrush 4000,2022/12/02,26,2,EH3 205QS,CM3 3AJ,Order Confirmed,2022/12/02,Unavailable,
+BRU00007886,Toothbrush 4000,2022/12/02,36,3,EX17 202AQ,BS5 7RT,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008041,Toothbrush 4000,2022/12/02,30,9,AL2 202SF,HU12 9GB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008171,Toothbrush 4000,2022/12/02,51,3,BH12 201PZ,CH45 0LG,Order Received,2022/12/02,Unavailable,
+BRU00007793,Toothbrush 4000,2022/12/02,35,8,HP9 201BN,DE72 3QD,Order Confirmed,2022/12/02,Unavailable,
+BRU00008201,Toothbrush 4000,2022/12/01,21,2,DL3 200RZ,DY12 2TL,Order Confirmed,2022/12/01,Unavailable,
+BRU00007992,Toothbrush 2000,2022/12/02,86,4,HP23 205PY,E8 4DY,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007914,Toothbrush 2000,2022/12/02,75,8,CV21 203NN,AL1 5QB,Order Confirmed,2022/12/02,Unavailable,
+BRU00008111,Toothbrush 2000,2022/12/01,81,9,BA12 208DD,CO4 9UN,Order Received,2022/12/01,Unavailable,
+BRU00008147,Toothbrush 4000,2022/12/01,21,8,HA7 202SG,CM0 7TN,Order Received,2022/12/01,Unavailable,
+BRU00007779,Toothbrush 2000,2022/12/01,63,6,G68 209PG,HU8 0TT,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00008277,Toothbrush 2000,2022/12/02,72,1,BD4 200LJ,CH65 6PU,Order Confirmed,2022/12/02,Unavailable,
+BRU00008121,Toothbrush 4000,2022/12/01,11,2,IG10 201PF,BL8 1DU,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007837,Toothbrush 4000,2022/12/02,21,4,AL1 204DW,E4 6TN,Order Confirmed,2022/12/02,Unavailable,
+BRU00008075,Toothbrush 2000,2022/12/02,56,5,CV4 209FA,CF82 6AJ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008108,Toothbrush 4000,2022/12/02,26,9,BL1 205FH,BL4 9QE,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007857,Toothbrush 2000,2022/12/02,76,1,CT6 208SG,CF24 1PN,Order Confirmed,2022/12/02,Unavailable,
+BRU00008157,Toothbrush 4000,2022/12/02,13,1,CO4 200ET,EN10 7NQ,Order Received,2022/12/02,Unavailable,
+BRU00008087,Toothbrush 2000,2022/12/01,96,1,B71 201AS,CT20 3AG,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007829,Toothbrush 4000,2022/12/02,15,7,DN16 202RD,GU12 5DY,Order Received,2022/12/02,Unavailable,
+BRU00008267,Toothbrush 4000,2022/12/02,39,6,G78 201JD,B76 9EL,Order Confirmed,2022/12/02,Unavailable,
+BRU00007694,Toothbrush 2000,2022/12/01,76,4,G45 209AA,HP17 8RE,Order Received,2022/12/01,Unavailable,
+BRU00008193,Toothbrush 4000,2022/12/02,32,1,BA2 203AR,B31 3NU,Order Confirmed,2022/12/02,Unavailable,
+BRU00008173,Toothbrush 4000,2022/12/01,15,2,BL5 202LA,HP27 9NX,Order Received,2022/12/01,Unavailable,
+BRU00008218,Toothbrush 2000,2022/12/02,86,4,E10 207AJ,CH5 4FQ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007756,Toothbrush 4000,2022/12/02,18,2,DN14 205AX,DY8 9EX,Order Confirmed,2022/12/02,Unavailable,
+BRU00007849,Toothbrush 4000,2022/12/02,14,4,G43 202QY,BS23 4HB,Order Confirmed,2022/12/02,Unavailable,
+BRU00008205,Toothbrush 4000,2022/12/02,18,6,G13 202DE,G44 3LT,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008220,Toothbrush 4000,2022/12/01,20,6,CF39 208AL,CT6 7UY,Order Received,2022/12/01,Unavailable,
+BRU00007788,Toothbrush 4000,2022/12/02,18,8,BA14 208RP,DN19 7AW,Order Received,2022/12/02,Unavailable,
+BRU00008281,Toothbrush 4000,2022/12/02,25,1,HP22 204NX,HD1 3DR,Dispatched,2022/12/03,Unsuccessful,2022/12/04
+BRU00007851,Toothbrush 2000,2022/12/02,94,1,DN10 204DF,BN24 6BA,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007909,Toothbrush 4000,2022/12/02,12,4,DH2 201BL,BA3 4XR,Order Confirmed,2022/12/02,Unavailable,
+BRU00007924,Toothbrush 2000,2022/12/01,70,8,DY8 205TT,BS40 5LJ,Order Confirmed,2022/12/01,Unavailable,
+BRU00007775,Toothbrush 4000,2022/12/02,28,3,B71 201BH,GU2 4HB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008031,Toothbrush 4000,2022/12/02,21,4,B8 202NL,CB2 0SA,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008096,Toothbrush 4000,2022/12/01,39,4,AB15 204NT,BN23 5SU,Order Received,2022/12/01,Unavailable,
+BRU00007973,Toothbrush 4000,2022/12/01,16,7,DN4 207EZ,IM2 5EW,Order Received,2022/12/01,Unavailable,
+BRU00008002,Toothbrush 2000,2022/12/01,71,2,GU26 206SH,EN3 4HX,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007907,Toothbrush 4000,2022/12/01,17,7,HX2 209QJ,G20 6NS,Order Received,2022/12/01,Unavailable,
+BRU00008110,Toothbrush 4000,2022/12/01,19,2,BS40 208ST,CM7 3QD,Order Received,2022/12/02,Unavailable,
+BRU00008228,Toothbrush 2000,2022/12/02,58,6,IG2 207RZ,BS1 6HW,Order Confirmed,2022/12/02,Unavailable,
+BRU00007770,Toothbrush 4000,2022/12/01,30,8,DL9 204BN,AB14 0WE,Order Received,2022/12/01,Unavailable,
+BRU00007887,Toothbrush 2000,2022/12/01,74,3,CT11 209NP,GL56 9ER,Order Received,2022/12/01,Unavailable,
+BRU00007927,Toothbrush 2000,2022/12/02,76,8,CH3 207NY,CF72 0EJ,Order Confirmed,2022/12/02,Unavailable,
+BRU00008279,Toothbrush 2000,2022/12/02,74,6,CV35 207NL,CA2 5PT,Order Confirmed,2022/12/02,Unavailable,
+BRU00008257,Toothbrush 2000,2022/12/01,84,3,G71 208RS,DL5 5AZ,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00008009,Toothbrush 2000,2022/12/02,80,2,GL14 201AB,BB4 5AD,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008035,Toothbrush 2000,2022/12/01,65,5,CV23 208BS,CR0 2HX,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007883,Toothbrush 2000,2022/12/01,59,7,EX17 202BD,G20 8NQ,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007717,Toothbrush 2000,2022/12/01,58,9,EH15 203DD,G65 9HP,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007780,Toothbrush 4000,2022/12/02,34,1,B25 208AY,CA15 8AN,Order Received,2022/12/02,Unavailable,
+BRU00008152,Toothbrush 2000,2022/12/02,75,9,CF23 205AW,BH25 5ZF,Order Confirmed,2022/12/02,Unavailable,
+BRU00008302,Toothbrush 2000,2022/12/01,73,6,DD6 208LB,DD6 8LB,Order Received,2022/12/01,Unavailable,
+BRU00007890,Toothbrush 4000,2022/12/02,29,1,AL4 209LF,AL4 9LF,Order Confirmed,2022/12/02,Unavailable,
+BRU00007719,Toothbrush 2000,2022/12/02,82,4,EH17 207JN,EH17 7JN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007714,Toothbrush 2000,2022/12/02,61,7,FK2 208TB,FK2 8TB,Order Received,2022/12/02,Unavailable,
+BRU00008188,Toothbrush 4000,2022/12/02,24,5,DE7 208TU,DE7 8TU,Dispatched,2022/12/03,Unsuccessful,2022/12/04
+BRU00008124,Toothbrush 2000,2022/12/02,83,9,CB11 203YG,CB11 3YG,Order Received,2022/12/02,Unavailable,
+BRU00007838,Toothbrush 2000,2022/12/02,91,3,CV2 202GA,CV2 2GA,Order Received,2022/12/02,Unavailable,
+BRU00008156,Toothbrush 4000,2022/12/02,29,4,EX9 206PX,EX9 6PX,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008187,Toothbrush 4000,2022/12/02,21,2,CA7 204RG,CA7 4RG,Order Received,2022/12/02,Unavailable,
+BRU00007700,Toothbrush 4000,2022/12/02,29,4,EX5 205JS,EX5 5JS,Order Confirmed,2022/12/02,Unavailable,
+BRU00007998,Toothbrush 4000,2022/12/02,18,6,BN11 204JU,BN11 4JU,Order Received,2022/12/02,Unavailable,
+BRU00007706,Toothbrush 4000,2022/12/02,18,1,GU46 207SJ,GU46 7SJ,Order Confirmed,2022/12/02,Unavailable,
+BRU00008058,Toothbrush 4000,2022/12/02,29,1,DN10 206AD,DN10 6AD,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008264,Toothbrush 4000,2022/12/01,39,4,CO1 202SJ,CO1 2SJ,Order Confirmed,2022/12/02,Unavailable,
+BRU00007817,Toothbrush 2000,2022/12/02,63,9,G33 203QR,G33 3QR,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007959,Toothbrush 4000,2022/12/02,13,7,g349bb,g349bb,Order Received,2022/12/02,Unavailable,
+BRU00007722,Toothbrush 2000,2022/12/01,93,4,dl38en,dl38en,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007854,Toothbrush 4000,2022/12/02,43,8,im96ps,im96ps,Order Confirmed,2022/12/02,Unavailable,
+BRU00007733,Toothbrush 2000,2022/12/02,77,2,cm201th,cm201th,Order Confirmed,2022/12/02,Unavailable,
+BRU00007903,Toothbrush 4000,2022/12/02,19,2,ca82ad,ca82ad,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007960,Toothbrush 2000,2022/12/01,76,3,ct201lh,ct201lh,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00008129,Toothbrush 4000,2022/12/02,25,2,ch446pd,ch446pd,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007945,Toothbrush 4000,2022/12/02,40,6,ba10xn,ba10xn,Order Confirmed,2022/12/02,Unavailable,
+BRU00008199,Toothbrush 4000,2022/12/02,29,1,cf838er,cf838er,Order Confirmed,2022/12/02,Unavailable,
+BRU00007822,Toothbrush 4000,2022/12/01,23,9,hp178rq,hp178rq,Order Confirmed,2022/12/01,Unavailable,
+BRU00008274,Toothbrush 2000,2022/12/02,74,3,de217ha,de217ha,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008123,Toothbrush 2000,2022/12/02,74,7,bs166uz,bs166uz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008190,Toothbrush 4000,2022/12/02,13,1,ip137qf,ip137qf,Order Confirmed,2022/12/02,Unavailable,
+BRU00007958,Toothbrush 4000,2022/12/02,9,2,dl140lw,dl140lw,Order Confirmed,2022/12/02,Unavailable,
+BRU00008269,Toothbrush 4000,2022/12/01,28,3,cw71pb,cw71pb,Order Confirmed,2022/12/01,Unavailable,
+BRU00008300,Toothbrush 4000,2022/12/02,32,3,eh165bh,eh165bh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007761,Toothbrush 4000,2022/12/01,15,3,bs42ph,bs42ph,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00007744,Toothbrush 2000,2022/12/02,65,5,cb87tu,cb87tu,Order Confirmed,2022/12/02,Unavailable,
+BRU00008154,Toothbrush 2000,2022/12/01,83,6,ig75dl,ig75dl,Order Received,2022/12/01,Unavailable,
+BRU00008170,Toothbrush 4000,2022/12/01,36,4,ha14fw,ha14fw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008225,Toothbrush 2000,2022/12/02,69,2,dy115ll,dy115ll,Order Received,2022/12/02,Unavailable,
+BRU00007876,Toothbrush 2000,2022/12/01,76,6,e163tr,e163tr,Order Received,2022/12/01,Unavailable,
+BRU00008071,Toothbrush 2000,2022/12/01,65,5,ab345ps,ab345ps,Order Confirmed,2022/12/01,Unavailable,
+BRU00008115,Toothbrush 4000,2022/12/02,21,5,dn106xd,dn106xd,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007957,Toothbrush 2000,2022/12/01,104,8,ex96rs,ex96rs,Order Confirmed,2022/12/01,Unavailable,
+BRU00008238,Toothbrush 2000,2022/12/02,83,2,ct54eh,ct54eh,Order Confirmed,2022/12/02,Unavailable,
+BRU00007750,Toothbrush 2000,2022/12/01,77,6,cm195qy,cm195qy,Order Confirmed,2022/12/01,Unavailable,
+BRU00008021,Toothbrush 2000,2022/12/02,91,2,co94jh,co94jh,Order Received,2022/12/02,Unavailable,
+BRU00007952,Toothbrush 4000,2022/12/01,39,2,b610pu,b610pu,Order Confirmed,2022/12/01,Unavailable,
+BRU00008141,Toothbrush 2000,2022/12/01,66,2,dn171xt,dn171xt,Order Confirmed,2022/12/01,Unavailable,
+BRU00007918,Toothbrush 4000,2022/12/02,45,2,cr78aa,cr78aa,Dispatched,2022/12/03,Unsuccessful,2022/12/04
+BRU00007991,Toothbrush 4000,2022/12/02,30,5,ab155bx,ab155bx,Order Confirmed,2022/12/02,Unavailable,
+BRU00008248,Toothbrush 4000,2022/12/02,36,3,fk14hy,fk14hy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008286,Toothbrush 2000,2022/12/02,74,6,dg80ej,dg80ej,Order Confirmed,2022/12/02,Unavailable,
+BRU00008138,Toothbrush 2000,2022/12/01,73,7,e20qs,e20qs,Order Received,2022/12/01,Unavailable,
+BRU00008249,Toothbrush 4000,2022/12/02,32,2,cv115ba,cv115ba,Order Received,2022/12/02,Unavailable,
+BRU00008239,Toothbrush 2000,2022/12/01,77,8,g697qd,g697qd,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00007847,Toothbrush 4000,2022/12/02,17,1,e78qr,e78qr,Order Received,2022/12/02,Unavailable,
+BRU00008132,Toothbrush 4000,2022/12/03,29,9,hp79lp,hp79lp,Dispatched,2022/12/03,Delivered,2022/12/04
+BRU00008296,Toothbrush 2000,2022/12/02,85,3,ch54dz,ch54dz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007994,Toothbrush 2000,2022/12/02,86,9,ch65ht,ch65ht,Order Confirmed,2022/12/02,Unavailable,
+BRU00008151,Toothbrush 2000,2022/12/01,74,6,b902db,b902db,Order Received,2022/12/01,Unavailable,
+BRU00008013,Toothbrush 2000,2022/12/02,84,8,dn319js,dn319js,Order Received,2022/12/02,Unavailable,
+BRU00008088,Toothbrush 2000,2022/12/02,51,7,gu470ut,gu470ut,Order Confirmed,2022/12/02,Unavailable,
+BRU00008217,Toothbrush 2000,2022/12/01,67,6,ha04yg,ha04yg,Order Confirmed,2022/12/01,Unavailable,
+BRU00008219,Toothbrush 4000,2022/12/02,12,2,hg20af,hg20af,Order Confirmed,2022/12/02,Unavailable,
+BRU00008162,Toothbrush 4000,2022/12/02,21,7,cv128py,cv128py,Order Confirmed,2022/12/02,Unavailable,
+BRU00007803,Toothbrush 4000,2022/12/02,28,3,dl14pb,dl14pb,Order Confirmed,2022/12/02,Unavailable,
+BRU00008247,Toothbrush 2000,2022/12/02,76,3,dt110hx,dt110hx,Order Received,2022/12/02,Unavailable,
+BRU00008090,Toothbrush 4000,2022/12/02,25,7,cf148hf,cf148hf,Order Received,2022/12/02,Unavailable,
+BRU00007870,Toothbrush 2000,2022/12/01,83,6,g743dq,g743dq,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00008078,Toothbrush 2000,2022/12/01,87,7,gl181qn,gl181qn,Order Confirmed,2022/12/02,Unavailable,
+BRU00007904,Toothbrush 2000,2022/12/02,83,4,ct95ly,ct95ly,Order Received,2022/12/02,Unavailable,
+BRU00007768,Toothbrush 4000,2022/12/02,32,5,dn377eh,dn377eh,Order Received,2022/12/02,Unavailable,
+BRU00008024,Toothbrush 4000,2022/12/02,43,9,ex394rj,ex394rj,Order Confirmed,2022/12/02,Unavailable,
+BRU00007894,Toothbrush 4000,2022/12/02,28,9,hp70qe,hp70qe,Order Confirmed,2022/12/02,Unavailable,
+BRU00008131,Toothbrush 2000,2022/12/01,84,2,cv22xh,cv22xh,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007839,Toothbrush 2000,2022/12/01,73,5,gl73lb,gl73lb,Order Confirmed,2022/12/01,Unavailable,
+BRU00007940,Toothbrush 2000,2022/12/01,76,1,gl525fx,gl525fx,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00008227,Toothbrush 2000,2022/12/01,57,4,cv77tl,cv77tl,Order Received,2022/12/01,Unavailable,
+BRU00008095,Toothbrush 4000,2022/12/01,36,2,hu164pt,hu164pt,Order Confirmed,2022/12/01,Unavailable,
+BRU00008074,Toothbrush 2000,2022/12/01,76,1,cm75pz,cm75pz,Order Received,2022/12/01,Unavailable,
+BRU00008293,Toothbrush 2000,2022/12/01,87,7,b376pr,b376pr,Order Received,2022/12/01,Unavailable,
+BRU00008006,Toothbrush 2000,2022/12/02,74,8,de757nq,de757nq,Order Received,2022/12/02,Unavailable,
+BRU00007692,Toothbrush 2000,2022/12/02,57,7,bh232fh,bh232fh,Order Confirmed,2022/12/02,Unavailable,
+BRU00008067,Toothbrush 2000,2022/12/01,73,7,e46jl,e46jl,Order Received,2022/12/01,Unavailable,
+BRU00007976,Toothbrush 2000,2022/12/01,81,6,b236hb,b236hb,Order Received,2022/12/01,Unavailable,
+BRU00008294,Toothbrush 4000,2022/12/02,40,5,gy13ft,gy13ft,Order Received,2022/12/02,Unavailable,
+BRU00007813,Toothbrush 4000,2022/12/02,36,5,hp202du,hp202du,Order Received,2022/12/02,Unavailable,
+BRU00007966,Toothbrush 4000,2022/12/02,50,8,eh44gt,eh44gt,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007982,Toothbrush 4000,2022/12/02,15,6,cv22ep,cv22ep,Order Received,2022/12/02,Unavailable,
+BRU00007818,Toothbrush 2000,2022/12/01,81,8,hp224pz,hp224pz,Order Received,2022/12/01,Unavailable,
+BRU00007762,Toothbrush 2000,2022/12/01,64,5,bn69fr,bn69fr,Order Confirmed,2022/12/01,Unavailable,
+BRU00007990,Toothbrush 2000,2022/12/01,71,9,cw123gs,cw123gs,Order Confirmed,2022/12/01,Unavailable,
+BRU00008268,Toothbrush 2000,2022/12/02,82,7,bh232sp,bh232sp,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00008114,Toothbrush 2000,2022/12/01,68,9,b647px,b647px,Order Received,2022/12/01,Unavailable,
+BRU00007739,Toothbrush 4000,2022/12/02,45,6,gu344ej,gu344ej,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007798,Toothbrush 4000,2022/12/02,31,1,dd100dz,dd100dz,Order Confirmed,2022/12/02,Unavailable,
+BRU00008045,Toothbrush 4000,2022/12/02,23,5,gl40wd,gl40wd,Order Received,2022/12/02,Unavailable,
+BRU00008266,Toothbrush 4000,2022/12/02,23,8,cf142qx,cf142qx,Order Received,2022/12/02,Unavailable,
+BRU00007776,Toothbrush 4000,2022/12/02,23,3,en65nf,en65nf,Order Confirmed,2022/12/02,Unavailable,
+BRU00007867,Toothbrush 2000,2022/12/01,66,3,gy80lt,gy80lt,Order Confirmed,2022/12/01,Unavailable,
+BRU00008179,Toothbrush 4000,2022/12/02,34,5,eh43ll,eh43ll,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007937,Toothbrush 2000,2022/12/01,82,1,ch21sa,ch21sa,Order Confirmed,2022/12/01,Unavailable,
+BRU00008100,Toothbrush 4000,2022/12/02,15,7,ex30ga,ex30ga,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007765,Toothbrush 2000,2022/12/02,57,9,bs161gf,bs161gf,Order Confirmed,2022/12/02,Unavailable,
+BRU00007902,Toothbrush 2000,2022/12/02,86,6,bb31pq,bb31pq,Order Received,2022/12/02,Unavailable,
+BRU00008158,Toothbrush 4000,2022/12/02,35,1,gu31ld,gu31ld,Order Received,2022/12/02,Unavailable,
+BRU00007828,Toothbrush 2000,2022/12/02,72,8,ba16ra,ba16ra,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007920,Toothbrush 4000,2022/12/01,22,3,eh497rf,eh497rf,Order Confirmed,2022/12/01,Unavailable,
+BRU00007884,Toothbrush 4000,2022/12/02,20,9,dt65lg,dt65lg,Order Confirmed,2022/12/02,Unavailable,
+BRU00007760,Toothbrush 2000,2022/12/01,65,7,fk11tg,fk11tg,Order Received,2022/12/01,Unavailable,
+BRU00007711,Toothbrush 2000,2022/12/02,64,3,hx26tn,hx26tn,Order Confirmed,2022/12/02,Unavailable,
+BRU00007897,Toothbrush 4000,2022/12/02,31,9,gu179ua,gu179ua,Order Confirmed,2022/12/02,Unavailable,
+BRU00007925,Toothbrush 2000,2022/12/01,79,1,dn106aw,dn106aw,Order Received,2022/12/01,Unavailable,
+BRU00008080,Toothbrush 4000,2022/12/02,16,4,bn436jg,bn436jg,Order Confirmed,2022/12/02,Unavailable,
+BRU00008040,Toothbrush 4000,2022/12/01,32,6,dg71ax,dg71ax,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00007713,Toothbrush 4000,2022/12/02,23,9,gl509tr,gl509tr,Order Confirmed,2022/12/02,Unavailable,
+BRU00008276,Toothbrush 2000,2022/12/02,78,8,eh47ld,eh47ld,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007931,Toothbrush 4000,2022/12/02,11,8,cf32sb,cf32sb,Order Received,2022/12/02,Unavailable,
+BRU00008288,Toothbrush 4000,2022/12/02,22,9,dn331nt,dn331nt,Order Received,2022/12/02,Unavailable,
+BRU00007704,Toothbrush 4000,2022/12/02,16,4,ct94lt,ct94lt,Order Received,2022/12/02,Unavailable,
+BRU00007679,Toothbrush 2000,2022/12/01,85,4,cv56ee,cv56ee,Order Confirmed,2022/12/01,Unavailable,
+BRU00008102,Toothbrush 2000,2022/12/01,95,2,cw26ay,cw26ay,Order Confirmed,2022/12/01,Unavailable,
+BRU00007906,Toothbrush 2000,2022/12/02,72,2,ig63dg,ig63dg,Order Confirmed,2022/12/02,Unavailable,
+BRU00007696,Toothbrush 4000,2022/12/02,37,6,dn227na,dn227na,Order Confirmed,2022/12/02,Unavailable,
+BRU00007962,Toothbrush 4000,2022/12/01,23,1,im96bt,im96bt,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007830,Toothbrush 4000,2022/12/02,40,4,ct196bt,ct196bt,Order Confirmed,2022/12/02,Unavailable,
+BRU00008079,Toothbrush 4000,2022/12/01,33,6,cv115xl,cv115xl,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007787,Toothbrush 2000,2022/12/01,64,7,b927qe,b927qe,Order Confirmed,2022/12/01,Unavailable,
+BRU00007834,Toothbrush 4000,2022/12/02,20,1,ip155br,ip155br,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008099,Toothbrush 4000,2022/12/01,14,5,dg126az,dg126az,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00008134,Toothbrush 4000,2022/12/02,35,8,bl15up,bl15up,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007796,Toothbrush 4000,2022/12/02,20,9,dn148qy,dn148qy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008039,Toothbrush 2000,2022/12/01,79,5,bd24hy,bd24hy,Order Confirmed,2022/12/01,Unavailable,
+BRU00008034,Toothbrush 4000,2022/12/02,20,1,dg86pd,dg86pd,Order Confirmed,2022/12/02,Unavailable,
+BRU00007969,Toothbrush 4000,2022/12/01,21,9,ab555fa,ab555fa,Order Received,2022/12/01,Unavailable,
+BRU00007734,Toothbrush 4000,2022/12/02,25,3,co112tf,co112tf,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00008069,Toothbrush 2000,2022/12/01,78,7,eh113uq,eh113uq,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00008004,Toothbrush 2000,2022/12/02,77,3,dh33jq,dh33jq,Order Received,2022/12/02,Unavailable,
+BRU00008198,Toothbrush 4000,2022/12/01,35,9,co100wh,co100wh,Order Confirmed,2022/12/01,Unavailable,
+BRU00008038,Toothbrush 2000,2022/12/01,88,9,co79py,co79py,Order Confirmed,2022/12/01,Unavailable,
+BRU00008230,Toothbrush 2000,2022/12/01,86,5,dl146qq,dl146qq,Order Received,2022/12/01,Unavailable,
+BRU00008289,Toothbrush 2000,2022/12/02,56,9,b440ux,b440ux,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007882,Toothbrush 2000,2022/12/02,48,3,da99nl,da99nl,Order Confirmed,2022/12/02,Unavailable,
+BRU00008234,Toothbrush 2000,2022/12/02,62,6,hx77dj,hx77dj,Order Received,2022/12/02,Unavailable,
+BRU00007880,Toothbrush 4000,2022/12/01,35,3,cv376ut,cv376ut,Order Confirmed,2022/12/01,Unavailable,
+BRU00007785,Toothbrush 4000,2022/12/02,33,8,g759dh,g759dh,Order Received,2022/12/02,Unavailable,
+BRU00008175,Toothbrush 2000,2022/12/01,79,4,g661ph,g661ph,Order Received,2022/12/01,Unavailable,
+BRU00008022,Toothbrush 4000,2022/12/02,26,9,ba148nt,ba148nt,Order Confirmed,2022/12/02,Unavailable,
+BRU00007729,Toothbrush 4000,2022/12/01,18,5,ex152lr,ex152lr,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00008028,Toothbrush 2000,2022/12/01,80,2,hp236yu,hp236yu,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007913,Toothbrush 2000,2022/12/02,76,2,g331dx,g331dx,Order Received,2022/12/02,Unavailable,
+BRU00007835,Toothbrush 4000,2022/12/02,24,1,al14qj,al14qj,Order Received,2022/12/02,Unavailable,
+BRU00007948,Toothbrush 2000,2022/12/02,81,3,ex364lb,ex364lb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008037,Toothbrush 2000,2022/12/01,83,3,hg41rl,hg41rl,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00008246,Toothbrush 2000,2022/12/02,83,4,cv77ug,cv77ug,Order Confirmed,2022/12/02,Unavailable,
+BRU00007859,Toothbrush 4000,2022/12/02,26,3,cv25bt,cv25bt,Order Confirmed,2022/12/03,Unavailable,
+BRU00007963,Toothbrush 4000,2022/12/02,44,5,bl96dp,bl96dp,Order Confirmed,2022/12/02,Unavailable,
+BRU00008196,Toothbrush 2000,2022/12/01,57,2,dd51br,dd51br,Order Confirmed,2022/12/01,Unavailable,
+BRU00007682,Toothbrush 4000,2022/12/01,37,3,ch626bz,ch626bz,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00008260,Toothbrush 4000,2022/12/02,19,7,ab561ul,ab561ul,Order Confirmed,2022/12/02,Unavailable,
+BRU00008018,Toothbrush 4000,2022/12/02,21,9,de127gx,de127gx,Order Received,2022/12/02,Unavailable,
+BRU00007995,Toothbrush 4000,2022/12/02,18,8,ch663jh,ch663jh,Order Received,2022/12/02,Unavailable,
+BRU00008012,Toothbrush 2000,2022/12/01,70,4,cv107gb,cv107gb,Order Received,2022/12/01,Unavailable,
+BRU00007810,Toothbrush 4000,2022/12/01,18,2,cf118be,cf118be,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008064,Toothbrush 2000,2022/12/01,79,3,dl38hn,dl38hn,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007799,Toothbrush 2000,2022/12/01,70,4,ip288sw,ip288sw,Order Received,2022/12/01,Unavailable,
+BRU00008128,Toothbrush 2000,2022/12/02,79,3,im44ru,im44ru,Order Received,2022/12/02,Unavailable,
+BRU00008030,Toothbrush 4000,2022/12/02,30,3,ch15ax,ch15ax,Order Received,2022/12/02,Unavailable,
+BRU00007861,Toothbrush 2000,2022/12/01,56,9,dh59rd,dh59rd,Order Received,2022/12/01,Unavailable,
+BRU00007896,Toothbrush 2000,2022/12/01,106,4,de143ls,de143ls,Order Received,2022/12/01,Unavailable,
+BRU00007801,Toothbrush 4000,2022/12/02,45,3,bs59sd,bs59sd,Order Received,2022/12/02,Unavailable,
+BRU00007923,Toothbrush 2000,2022/12/01,86,6,br34ja,br34ja,Order Confirmed,2022/12/02,Unavailable,
+BRU00008270,Toothbrush 2000,2022/12/02,68,3,ct47nd,ct47nd,Order Confirmed,2022/12/02,Unavailable,
+BRU00008084,Toothbrush 2000,2022/12/01,73,3,gl142ej,gl142ej,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007746,Toothbrush 2000,2022/12/01,70,8,ch72lp,ch72lp,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007699,Toothbrush 2000,2022/12/01,75,9,gl179qa,gl179qa,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00008197,Toothbrush 4000,2022/12/01,26,1,ex143gj,ex143gj,Order Confirmed,2022/12/01,Unavailable,
+BRU00007860,Toothbrush 4000,2022/12/02,30,1,al60fh,al60fh,Order Received,2022/12/02,Unavailable,
+BRU00007791,Toothbrush 2000,2022/12/02,80,8,bb127dt,bb127dt,Order Confirmed,2022/12/02,Unavailable,
+BRU00008206,Toothbrush 2000,2022/12/02,72,8,gu67eg,gu67eg,Order Received,2022/12/02,Unavailable,
+BRU00008044,Toothbrush 2000,2022/12/01,91,8,ha97fa,ha97fa,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007716,Toothbrush 4000,2022/12/01,19,9,de75ay,de75ay,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007823,Toothbrush 4000,2022/12/02,9,4,ch662qq,ch662qq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008025,Toothbrush 4000,2022/12/02,20,8,bd215df,bd215df,Order Confirmed,2022/12/02,Unavailable,
+BRU00007687,Toothbrush 4000,2022/12/02,35,9,b435nu,b435nu,Order Confirmed,2022/12/02,Unavailable,
+BRU00008177,Toothbrush 2000,2022/12/01,89,8,hu175nl,hu175nl,Order Received,2022/12/01,Unavailable,
+BRU00007686,Toothbrush 2000,2022/12/01,55,5,ct194js,ct194js,Order Confirmed,2022/12/01,Unavailable,
+BRU00007939,Toothbrush 4000,2022/12/01,25,8,bs231ju,bs231ju,Order Received,2022/12/01,Unavailable,
+BRU00007731,Toothbrush 4000,2022/12/01,39,3,im47br,im47br,Order Received,2022/12/01,Unavailable,
+BRU00007755,Toothbrush 4000,2022/12/02,17,2,gy68sr,gy68sr,Order Received,2022/12/02,Unavailable,
+BRU00007772,Toothbrush 4000,2022/12/02,23,7,b120xz,b120xz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008016,Toothbrush 2000,2022/12/02,80,3,co92qr,co92qr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007865,Toothbrush 2000,2022/12/01,68,2,cb87gg,cb87gg,Order Received,2022/12/01,Unavailable,
+BRU00007946,Toothbrush 2000,2022/12/01,66,8,dn378js,dn378js,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00008047,Toothbrush 4000,2022/12/02,26,7,gl560jq,gl560jq,Order Confirmed,2022/12/02,Unavailable,
+BRU00008122,Toothbrush 2000,2022/12/01,70,1,g443hs,g443hs,Order Confirmed,2022/12/01,Unavailable,
+BRU00007690,Toothbrush 2000,2022/12/01,72,6,ex392rw,ex392rw,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00008186,Toothbrush 4000,2022/12/02,14,4,fy76qx,fy76qx,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008137,Toothbrush 2000,2022/12/02,62,1,g320hr,g320hr,Order Confirmed,2022/12/02,Unavailable,
+BRU00007684,Toothbrush 4000,2022/12/02,42,1,eh329nu,eh329nu,Order Received,2022/12/02,Unavailable,
+BRU00008146,Toothbrush 2000,2022/12/01,67,9,cb250bb,cb250bb,Order Received,2022/12/01,Unavailable,
+BRU00008285,Toothbrush 4000,2022/12/01,30,1,eh145rf,eh145rf,Order Received,2022/12/01,Unavailable,
+BRU00008112,Toothbrush 2000,2022/12/01,72,7,gl542ly,gl542ly,Order Received,2022/12/01,Unavailable,
+BRU00008271,Toothbrush 4000,2022/12/02,38,9,cr03fe,cr03fe,Order Received,2022/12/02,Unavailable,
+BRU00007783,Toothbrush 4000,2022/12/02,34,2,hd50az,hd50az,Order Received,2022/12/02,Unavailable,
+BRU00007773,Toothbrush 2000,2022/12/02,86,6,ex111nx,ex111nx,Order Received,2022/12/02,Unavailable,
+BRU00008295,Toothbrush 4000,2022/12/02,30,6,b979rt,b979rt,Order Confirmed,2022/12/02,Unavailable,
+BRU00007964,Toothbrush 4000,2022/12/02,47,4,hu74lq,hu74lq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007844,Toothbrush 4000,2022/12/02,30,9,bd234rb,bd234rb,Order Received,2022/12/02,Unavailable,
+BRU00008291,Toothbrush 2000,2022/12/01,104,9,cv378an,cv378an,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00008232,Toothbrush 2000,2022/12/01,85,2,dy69lt,dy69lt,Order Confirmed,2022/12/01,Unavailable,
+BRU00008275,Toothbrush 4000,2022/12/02,18,9,gu59hp,gu59hp,Order Received,2022/12/02,Unavailable,
+BRU00007800,Toothbrush 4000,2022/12/02,19,4,bh213sx,bh213sx,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007726,Toothbrush 4000,2022/12/02,27,3,dl148ld,dl148ld,Order Confirmed,2022/12/02,Unavailable,
+BRU00008068,Toothbrush 4000,2022/12/02,11,8,ip129ts,ip129ts,Order Received,2022/12/02,Unavailable,
+BRU00008049,Toothbrush 4000,2022/12/02,19,9,ab314gj,ab314gj,Order Confirmed,2022/12/02,Unavailable,
+BRU00007875,Toothbrush 4000,2022/12/03,34,2,dt102dq,dt102dq,Dispatched,2022/12/03,Delivered,2022/12/04
+BRU00008117,Toothbrush 2000,2022/12/02,83,5,dn60nh,dn60nh,Order Confirmed,2022/12/02,Unavailable,
+BRU00007777,Toothbrush 4000,2022/12/02,47,6,cv32ts,cv32ts,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008042,Toothbrush 4000,2022/12/02,34,4,bn273su,bn273su,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007701,Toothbrush 4000,2022/12/02,6,8,bh93el,bh93el,Order Confirmed,2022/12/02,Unavailable,
+BRU00007863,Toothbrush 4000,2022/12/01,35,3,co100hn,co100hn,Order Confirmed,2022/12/01,Unavailable,
+BRU00008036,Toothbrush 2000,2022/12/02,83,3,co151nb,co151nb,Order Received,2022/12/02,Unavailable,
+BRU00008130,Toothbrush 2000,2022/12/02,82,1,bh19ld,bh19ld,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007757,Toothbrush 2000,2022/12/02,82,9,ex314hl,ex314hl,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007842,Toothbrush 2000,2022/12/01,79,8,cv115lz,cv115lz,Order Confirmed,2022/12/01,Unavailable,
+BRU00008057,Toothbrush 4000,2022/12/02,14,5,g781er,g781er,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007705,Toothbrush 4000,2022/12/02,25,9,bs375nw,bs375nw,Order Received,2022/12/02,Unavailable,
+BRU00007685,Toothbrush 2000,2022/12/01,83,4,cm150an,cm150an,Order Confirmed,2022/12/01,Unavailable,
+BRU00007778,Toothbrush 4000,2022/12/02,20,6,b761hz,b761hz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008287,Toothbrush 4000,2022/12/02,37,1,hd80eq,hd80eq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007763,Toothbrush 4000,2022/12/02,30,3,ex24sw,ex24sw,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007795,Toothbrush 2000,2022/12/01,88,9,gl114jd,gl114jd,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007891,Toothbrush 4000,2022/12/02,32,8,cr02lz,cr02lz,Order Received,2022/12/02,Unavailable,
+BRU00008019,Toothbrush 2000,2022/12/02,62,8,ab107ne,ab107ne,Order Received,2022/12/02,Unavailable,
+BRU00008165,Toothbrush 2000,2022/12/01,78,7,dl30lw,dl30lw,Order Received,2022/12/01,Unavailable,
+BRU00008164,Toothbrush 4000,2022/12/01,26,1,ip288hy,ip288hy,Order Confirmed,2022/12/01,Unavailable,
+BRU00008243,Toothbrush 2000,2022/12/01,90,1,dt11qh,dt11qh,Order Received,2022/12/01,Unavailable,
+BRU00007814,Toothbrush 2000,2022/12/02,65,9,hr14hh,hr14hh,Order Received,2022/12/02,Unavailable,
+BRU00008298,Toothbrush 4000,2022/12/01,41,2,dn333aw,dn333aw,Order Received,2022/12/01,Unavailable,
+BRU00007856,Toothbrush 4000,2022/12/02,21,3,ct155jg,ct155jg,Order Confirmed,2022/12/02,Unavailable,
+BRU00007932,Toothbrush 2000,2022/12/02,74,9,dg20sw,dg20sw,Order Confirmed,2022/12/02,Unavailable,
+BRU00007730,Toothbrush 4000,2022/12/02,20,5,ch65lg,ch65lg,Order Received,2022/12/02,Unavailable,
+BRU00007878,Toothbrush 2000,2022/12/02,77,9,gu213rj,gu213rj,Order Confirmed,2022/12/02,Unavailable,
+BRU00008072,Toothbrush 4000,2022/12/02,33,2,dn155dq,dn155dq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007702,Toothbrush 4000,2022/12/02,43,2,br33dg,br33dg,Order Received,2022/12/02,Unavailable,
+BRU00008001,Toothbrush 4000,2022/12/01,15,7,de138nb,de138nb,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00008221,Toothbrush 2000,2022/12/01,97,8,dn84tb,dn84tb,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00008255,Toothbrush 2000,2022/12/01,93,8,b662js,b662js,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007988,Toothbrush 4000,2022/12/02,32,2,en19ge,en19ge,Order Confirmed,2022/12/02,Unavailable,
+BRU00008216,Toothbrush 2000,2022/12/01,65,2,co152pr,co152pr,Order Confirmed,2022/12/01,Unavailable,
+BRU00007848,Toothbrush 4000,2022/12/02,15,6,ch87sy,ch87sy,Order Received,2022/12/02,Unavailable,
+BRU00007691,Toothbrush 4000,2022/12/02,15,8,ct52jg,ct52jg,Order Received,2022/12/02,Unavailable,
+BRU00008017,Toothbrush 2000,2022/12/02,61,4,hd61hj,hd61hj,Order Confirmed,2022/12/02,Unavailable,
+BRU00007681,Toothbrush 4000,2022/12/01,18,3,e161qb,e161qb,Order Confirmed,2022/12/02,Unavailable,
+BRU00008027,Toothbrush 2000,2022/12/02,109,7,br66af,br66af,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008166,Toothbrush 2000,2022/12/02,61,5,gl55jt,gl55jt,Order Confirmed,2022/12/02,Unavailable,
+BRU00007797,Toothbrush 2000,2022/12/01,87,5,e83lq,e83lq,Order Confirmed,2022/12/02,Unavailable,
+BRU00008280,Toothbrush 4000,2022/12/01,10,5,gu280lt,gu280lt,Order Confirmed,2022/12/02,Unavailable,
+BRU00008224,Toothbrush 2000,2022/12/02,79,3,en771ff,en771ff,Order Confirmed,2022/12/02,Unavailable,
+BRU00008200,Toothbrush 4000,2022/12/02,23,5,bs345uh,bs345uh,Order Received,2022/12/02,Unavailable,
+BRU00007782,Toothbrush 4000,2022/12/02,26,4,bs495hd,bs495hd,Order Confirmed,2022/12/02,Unavailable,
+BRU00008235,Toothbrush 4000,2022/12/02,29,6,eh87aj,eh87aj,Order Confirmed,2022/12/02,Unavailable,
+BRU00007693,Toothbrush 2000,2022/12/01,71,7,bd62aq,bd62aq,Order Received,2022/12/01,Unavailable,
+BRU00007956,Toothbrush 4000,2022/12/02,13,2,dn358rj,dn358rj,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007759,Toothbrush 4000,2022/12/02,15,6,bs351bg,bs351bg,Dispatched,2022/12/03,Unsuccessful,2022/12/05
+BRU00007850,Toothbrush 2000,2022/12/02,74,8,gl24bs,gl24bs,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008155,Toothbrush 2000,2022/12/02,67,5,al13sl,al13sl,Order Received,2022/12/02,Unavailable,
+BRU00008215,Toothbrush 2000,2022/12/01,94,3,dd81qp,dd81qp,Order Confirmed,2022/12/01,Unavailable,
+BRU00008297,Toothbrush 4000,2022/12/02,25,9,hu55sw,hu55sw,Dispatched,2022/12/03,Unsuccessful,2022/12/04
+BRU00007753,Toothbrush 4000,2022/12/02,28,2,ha86lq,ha86lq,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007697,Toothbrush 4000,2022/12/02,25,1,ca117de,ca117de,Order Confirmed,2022/12/02,Unavailable,
+BRU00008061,Toothbrush 2000,2022/12/02,90,4,cb80ph,cb80ph,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007980,Toothbrush 2000,2022/12/01,70,9,im53bp,im53bp,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00008290,Toothbrush 2000,2022/12/01,70,2,de43ld,de43ld,Order Confirmed,2022/12/01,Unavailable,
+BRU00007954,Toothbrush 2000,2022/12/02,81,2,cv65hf,cv65hf,Order Confirmed,2022/12/02,Unavailable,
+BRU00007977,Toothbrush 4000,2022/12/01,28,2,ex13hy,ex13hy,Order Received,2022/12/01,Unavailable,
+BRU00008149,Toothbrush 2000,2022/12/01,66,8,ba229jn,ba229jn,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007938,Toothbrush 2000,2022/12/02,82,3,bd194rp,bd194rp,Order Confirmed,2022/12/02,Unavailable,
+BRU00007941,Toothbrush 2000,2022/12/02,69,2,cb75uf,cb75uf,Order Received,2022/12/02,Unavailable,
+BRU00008241,Toothbrush 4000,2022/12/01,34,4,cv12ta,cv12ta,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00008076,Toothbrush 2000,2022/12/01,58,2,cv370up,cv370up,Order Confirmed,2022/12/01,Unavailable,
+BRU00007709,Toothbrush 2000,2022/12/02,51,3,g328aw,g328aw,Order Received,2022/12/02,Unavailable,
+BRU00007981,Toothbrush 4000,2022/12/02,31,6,dg112fe,dg112fe,Order Confirmed,2022/12/02,Unavailable,
+BRU00007771,Toothbrush 4000,2022/12/02,17,2,b330nw,b330nw,Order Confirmed,2022/12/02,Unavailable,
+BRU00007935,Toothbrush 2000,2022/12/01,71,3,ip287ln,ip287ln,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007736,Toothbrush 4000,2022/12/01,5,9,da28be,da28be,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00008063,Toothbrush 4000,2022/12/01,28,7,bd215pp,bd215pp,Order Confirmed,2022/12/01,Unavailable,
+BRU00008251,Toothbrush 2000,2022/12/01,58,1,e13hh,e13hh,Order Confirmed,2022/12/01,Unavailable,
+BRU00007727,Toothbrush 4000,2022/12/02,31,3,de249gd,de249gd,Order Received,2022/12/02,Unavailable,
+BRU00008046,Toothbrush 2000,2022/12/02,64,7,ip224yr,ip224yr,Order Received,2022/12/02,Unavailable,
+BRU00008091,Toothbrush 4000,2022/12/02,21,6,ha02hf,ha02hf,Order Confirmed,2022/12/02,Unavailable,
+BRU00007728,Toothbrush 4000,2022/12/01,8,3,hx62lb,hx62lb,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007983,Toothbrush 4000,2022/12/02,31,2,cm14xl,cm14xl,Order Confirmed,2022/12/02,Unavailable,
+BRU00007843,Toothbrush 4000,2022/12/02,23,7,bs216sj,bs216sj,Order Received,2022/12/02,Unavailable,
+BRU00007916,Toothbrush 2000,2022/12/01,79,2,co156an,co156an,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008033,Toothbrush 4000,2022/12/02,19,6,bs273nx,bs273nx,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007767,Toothbrush 2000,2022/12/01,76,4,cv107ep,cv107ep,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00007967,Toothbrush 4000,2022/12/02,33,3,da49lr,da49lr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008263,Toothbrush 2000,2022/12/01,85,2,bl67jx,bl67jx,Order Confirmed,2022/12/01,Unavailable,
+BRU00007743,Toothbrush 2000,2022/12/01,78,5,bs50uq,bs50uq,Order Confirmed,2022/12/01,Unavailable,
+BRU00008008,Toothbrush 2000,2022/12/02,73,3,hx37tl,hx37tl,Order Received,2022/12/02,Unavailable,
+BRU00007724,Toothbrush 2000,2022/12/02,69,6,e176lx,e176lx,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008085,Toothbrush 2000,2022/12/02,76,3,fk39ep,fk39ep,Order Received,2022/12/02,Unavailable,
+BRU00007922,Toothbrush 2000,2022/12/02,80,6,dg113lh,dg113lh,Order Received,2022/12/02,Unavailable,
+BRU00008303,Toothbrush 2000,2022/12/02,62,6,b168ds,b168ds,Order Received,2022/12/02,Unavailable,
+BRU00008168,Toothbrush 4000,2022/12/02,23,3,dn311xw,dn311xw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008194,Toothbrush 2000,2022/12/01,82,4,cr09al,cr09al,Order Received,2022/12/01,Unavailable,
+BRU00007934,Toothbrush 2000,2022/12/01,68,2,ba69sy,ba69sy,Order Received,2022/12/01,Unavailable,
+BRU00007710,Toothbrush 2000,2022/12/02,76,5,cf35tl,cf35tl,Order Received,2022/12/02,Unavailable,
+BRU00007740,Toothbrush 2000,2022/12/01,94,2,bd40je,bd40je,Order Confirmed,2022/12/01,Unavailable,
+BRU00007820,Toothbrush 2000,2022/12/01,78,2,cf466sa,cf466sa,Order Received,2022/12/01,Unavailable,
+BRU00007678,Toothbrush 2000,2022/12/02,73,5,eh68bl,eh68bl,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007961,Toothbrush 2000,2022/12/01,89,8,ha51tb,ha51tb,Order Confirmed,2022/12/01,Unavailable,
+BRU00008189,Toothbrush 4000,2022/12/02,25,2,en54ep,en54ep,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008259,Toothbrush 4000,2022/12/02,38,7,cw16gz,cw16gz,Order Received,2022/12/02,Unavailable,
+BRU00008107,Toothbrush 4000,2022/12/02,36,4,dn159fh,dn159fh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007703,Toothbrush 2000,2022/12/01,91,5,gl523pq,gl523pq,Order Received,2022/12/01,Unavailable,
+BRU00007947,Toothbrush 2000,2022/12/02,55,5,dl22zl,dl22zl,Order Received,2022/12/02,Unavailable,
+BRU00007877,Toothbrush 2000,2022/12/02,74,7,ex70rg,ex70rg,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007789,Toothbrush 4000,2022/12/02,45,4,ip146jq,ip146jq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008172,Toothbrush 2000,2022/12/02,63,6,bh125dj,bh125dj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007720,Toothbrush 4000,2022/12/02,26,3,g840aj,g840aj,Order Confirmed,2022/12/02,Unavailable,
+BRU00008282,Toothbrush 4000,2022/12/02,15,6,fk54ra,fk54ra,Dispatched,2022/12/03,Unsuccessful,2022/12/04
+BRU00007979,Toothbrush 2000,2022/12/01,88,9,ab117tz,ab117tz,Order Received,2022/12/01,Unavailable,
+BRU00008261,Toothbrush 4000,2022/12/01,29,9,cf399yb,cf399yb,Order Received,2022/12/01,Unavailable,
+BRU00007942,Toothbrush 2000,2022/12/02,72,9,bd231ru,bd231ru,Order Received,2022/12/02,Unavailable,
+BRU00007868,Toothbrush 2000,2022/12/02,87,1,da83ae,da83ae,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008104,Toothbrush 4000,2022/12/02,28,3,ca102lr,ca102lr,Order Received,2022/12/02,Unavailable,
+BRU00007845,Toothbrush 4000,2022/12/01,18,2,bd87dy,bd87dy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008135,Toothbrush 2000,2022/12/01,80,3,hd14ja,hd14ja,Order Received,2022/12/01,Unavailable,
+BRU00008000,Toothbrush 4000,2022/12/02,20,6,cf340bl,cf340bl,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007841,Toothbrush 4000,2022/12/02,14,8,eh141qb,eh141qb,Order Confirmed,2022/12/02,Unavailable,
+BRU00008202,Toothbrush 2000,2022/12/01,63,8,b744rq,b744rq,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007821,Toothbrush 2000,2022/12/01,87,7,ex24td,ex24td,Order Received,2022/12/01,Unavailable,
+BRU00007953,Toothbrush 2000,2022/12/02,78,7,b761xa,b761xa,Order Confirmed,2022/12/02,Unavailable,
+BRU00008211,Toothbrush 2000,2022/12/01,70,7,bl67an,bl67an,Order Received,2022/12/01,Unavailable,
+BRU00007738,Toothbrush 4000,2022/12/02,27,4,ct110jf,ct110jf,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007901,Toothbrush 2000,2022/12/02,69,3,hr60bz,hr60bz,Order Received,2022/12/02,Unavailable,
+BRU00008136,Toothbrush 4000,2022/12/01,33,1,bn24pz,bn24pz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008182,Toothbrush 4000,2022/12/02,18,5,ct102lp,ct102lp,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008229,Toothbrush 4000,2022/12/02,12,7,ab355tu,ab355tu,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007864,Toothbrush 2000,2022/12/01,62,8,bs217fs,bs217fs,Order Confirmed,2022/12/01,Unavailable,
+BRU00007989,Toothbrush 2000,2022/12/02,79,1,cm71hl,cm71hl,Order Received,2022/12/02,Unavailable,
+BRU00008109,Toothbrush 4000,2022/12/02,37,9,g211lz,g211lz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008050,Toothbrush 4000,2022/12/01,31,9,bb46jf,bb46jf,Order Received,2022/12/01,Unavailable,
+BRU00007732,Toothbrush 2000,2022/12/01,72,6,cf402lz,cf402lz,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007889,Toothbrush 4000,2022/12/01,10,7,en92es,en92es,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007766,Toothbrush 4000,2022/12/01,34,5,cm59hj,cm59hj,Order Confirmed,2022/12/01,Unavailable,
+BRU00007688,Toothbrush 2000,2022/12/01,64,1,ct163nw,ct163nw,Order Confirmed,2022/12/01,Unavailable,
+BRU00008299,Toothbrush 4000,2022/12/01,12,7,b249aw,b249aw,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00008208,Toothbrush 2000,2022/12/01,74,9,g680ld,g680ld,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00008148,Toothbrush 4000,2022/12/01,13,1,g156st,g156st,Order Received,2022/12/01,Unavailable,
+BRU00008265,Toothbrush 4000,2022/12/02,13,8,eh120aa,eh120aa,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008301,Toothbrush 2000,2022/12/01,80,1,ab210be,ab210be,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007933,Toothbrush 4000,2022/12/02,39,9,ca156px,ca156px,Order Confirmed,2022/12/02,Unavailable,
+BRU00007774,Toothbrush 2000,2022/12/01,79,2,ch40jd,ch40jd,Order Confirmed,2022/12/01,Unavailable,
+BRU00008066,Toothbrush 2000,2022/12/01,68,4,ct93ug,ct93ug,Order Confirmed,2022/12/01,Unavailable,
+BRU00008283,Toothbrush 2000,2022/12/02,66,9,bd231jy,bd231jy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008026,Toothbrush 2000,2022/12/01,76,7,hd21tr,hd21tr,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007874,Toothbrush 4000,2022/12/01,21,8,hd14qu,hd14qu,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007790,Toothbrush 2000,2022/12/01,91,3,fk27pg,fk27pg,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00008125,Toothbrush 2000,2022/12/02,63,8,cv346tr,cv346tr,Order Received,2022/12/02,Unavailable,
+BRU00008212,Toothbrush 2000,2022/12/01,67,6,b202rj,b202rj,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00007741,Toothbrush 2000,2022/12/01,65,5,al108ts,al108ts,Order Received,2022/12/01,Unavailable,
+BRU00007827,Toothbrush 2000,2022/12/02,70,5,dl120xy,dl120xy,Order Confirmed,2022/12/02,Unavailable,
+BRU00007752,Toothbrush 2000,2022/12/02,64,1,bh243qz,bh243qz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007809,Toothbrush 4000,2022/12/02,28,5,cr06an,cr06an,Order Confirmed,2022/12/02,Unavailable,
+BRU00007899,Toothbrush 4000,2022/12/01,22,7,gl179sd,gl179sd,Order Received,2022/12/01,Unavailable,
+BRU00007858,Toothbrush 4000,2022/12/02,19,2,ip136uy,ip136uy,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00008236,Toothbrush 2000,2022/12/02,73,7,dt28wn,dt28wn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007758,Toothbrush 4000,2022/12/02,16,4,ct51bn,ct51bn,Order Confirmed,2022/12/02,Unavailable,
+BRU00007855,Toothbrush 2000,2022/12/01,86,9,ex168jp,ex168jp,Order Confirmed,2022/12/01,Unavailable,
+BRU00007871,Toothbrush 2000,2022/12/01,75,6,dh13uj,dh13uj,Order Confirmed,2022/12/01,Unavailable,
+BRU00007725,Toothbrush 4000,2022/12/02,8,4,bl34us,bl34us,Order Received,2022/12/02,Unavailable,
+BRU00007866,Toothbrush 4000,2022/12/02,5,6,im62hh,im62hh,Order Confirmed,2022/12/02,Unavailable,
+BRU00007930,Toothbrush 2000,2022/12/01,72,6,cm195jn,cm195jn,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007919,Toothbrush 2000,2022/12/01,70,6,gl32nr,gl32nr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008023,Toothbrush 4000,2022/12/02,40,5,hp42pg,hp42pg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008203,Toothbrush 4000,2022/12/02,40,4,gy16bd,gy16bd,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008126,Toothbrush 2000,2022/12/01,88,2,cw14dr,cw14dr,Order Confirmed,2022/12/01,Unavailable,
+BRU00007721,Toothbrush 2000,2022/12/01,74,7,BH22 9PB,BH22   9PB,Order Confirmed,2022/12/01,Unavailable,
+BRU00007815,Toothbrush 4000,2022/12/02,30,3,BH8 8AQ,BH8   8AQ,Order Received,2022/12/02,Unavailable,
+BRU00007819,Toothbrush 4000,2022/12/02,11,8,EH24 9DW,EH24   9DW,Order Confirmed,2022/12/02,Unavailable,
+BRU00007804,Toothbrush 2000,2022/12/01,83,8,G3 8AG,G3   8AG,Order Confirmed,2022/12/01,Unavailable,
+BRU00008093,Toothbrush 4000,2022/12/02,32,7,G11 6PD,G11   6PD,Order Received,2022/12/02,Unavailable,
+BRU00007892,Toothbrush 2000,2022/12/02,56,3,EH22 4QN,EH22   4QN,Order Received,2022/12/02,Unavailable,
+BRU00007808,Toothbrush 4000,2022/12/02,27,6,DE24 9BN,DE24   9BN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008185,Toothbrush 4000,2022/12/02,21,2,G42 0JL,G42   0JL,Order Received,2022/12/02,Unavailable,
+BRU00007912,Toothbrush 2000,2022/12/01,56,4,FK15 9RL,FK15   9RL,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00008210,Toothbrush 2000,2022/12/02,89,1,CM20 2FG,CM20   2FG,Order Received,2022/12/02,Unavailable,
+BRU00008014,Toothbrush 4000,2022/12/02,22,9,BS14 8LQ,BS14   8LQ,Order Received,2022/12/02,Unavailable,
+BRU00008169,Toothbrush 2000,2022/12/01,91,6,G72 0GE,G72   0GE,Order Confirmed,2022/12/01,Unavailable,
+BRU00008222,Toothbrush 2000,2022/12/01,66,4,EC3V 0RL,EC3V   0RL,Order Confirmed,2022/12/01,Unavailable,
+BRU00008226,Toothbrush 4000,2022/12/02,21,8,HP23 6AE,HP23   6AE,Order Confirmed,2022/12/02,Unavailable,
+BRU00008101,Toothbrush 2000,2022/12/02,87,3,FK15 0FP,FK15   0FP,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007993,Toothbrush 2000,2022/12/02,62,1,BS1 3DJ,BS1   3DJ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008029,Toothbrush 4000,2022/12/02,17,1,IM4 7DW,IM4   7DW,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008209,Toothbrush 4000,2022/12/02,30,8,HD9 4DR,HD9   4DR,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007826,Toothbrush 4000,2022/12/01,27,4,CT10 2SY,CT10   2SY,Order Received,2022/12/01,Unavailable,
+BRU00008092,Toothbrush 4000,2022/12/01,34,5,B74 4PJ,B74   4PJ,Order Confirmed,2022/12/02,Unavailable,
+BRU00007917,Toothbrush 2000,2022/12/01,80,4,CT6 6SG,CT6   6SG,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007893,Toothbrush 4000,2022/12/02,37,1,BH31 7BA,BH31   7BA,Order Confirmed,2022/12/02,Unavailable,
+BRU00007836,Toothbrush 4000,2022/12/01,12,7,DY8 2HH,DY8   2HH,Order Confirmed,2022/12/02,Unavailable,
+BRU00007944,Toothbrush 4000,2022/12/02,18,6,EH46 7DA,EH46   7DA,Order Received,2022/12/02,Unavailable,
+BRU00008055,Toothbrush 4000,2022/12/02,12,6,HG1 9SH,HG1   9SH,Order Confirmed,2022/12/02,Unavailable,
+BRU00008223,Toothbrush 2000,2022/12/01,74,5,AB25 3XD,AB25   3XD,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00008292,Toothbrush 4000,2022/12/02,18,8,G40 3JF,G40   3JF,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008284,Toothbrush 2000,2022/12/01,57,4,CA11 9JE,CA11   9JE,Order Received,2022/12/01,Unavailable,
+BRU00008176,Toothbrush 2000,2022/12/01,54,3,B23 6HD,B23   6HD,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007908,Toothbrush 2000,2022/12/01,73,9,B91 1QS,B91   1QS,Order Confirmed,2022/12/01,Unavailable,
+BRU00008094,Toothbrush 4000,2022/12/02,12,1,CW8 2JG,CW8   2JG,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007900,Toothbrush 2000,2022/12/01,84,9,CA7 3EE,CA7   3EE,Order Received,2022/12/01,Unavailable,
+BRU00008011,Toothbrush 2000,2022/12/01,92,2,BL1 5PH,BL1   5PH,Order Received,2022/12/01,Unavailable,
+BRU00007852,Toothbrush 2000,2022/12/02,71,9,BD23 1LN,BD23   1LN,Order Confirmed,2022/12/02,Unavailable,
+BRU00008054,Toothbrush 2000,2022/12/02,91,8,CM2 6DU,CM2   6DU,Order Confirmed,2022/12/02,Unavailable,
+BRU00007748,Toothbrush 4000,2022/12/02,12,7,FK10 4JT,FK10   4JT,Order Received,2022/12/02,Unavailable,
+BRU00007888,Toothbrush 4000,2022/12/02,31,8,BS8 4HG,BS8   4HG,Order Confirmed,2022/12/02,Unavailable,
+BRU00007911,Toothbrush 4000,2022/12/02,33,5,BH22 0EW,BH22   0EW,Order Received,2022/12/02,Unavailable,
+BRU00007975,Toothbrush 4000,2022/12/01,21,6,DE72 2DJ,DE72   2DJ,Order Confirmed,2022/12/01,Unavailable,
+BRU00008181,Toothbrush 2000,2022/12/02,75,3,BA12 9JZ,BA12   9JZ,Order Received,2022/12/02,Unavailable,
+BRU00008178,Toothbrush 4000,2022/12/02,27,4,CH5 2JW,CH5   2JW,Order Received,2022/12/02,Unavailable,
+BRU00008150,Toothbrush 4000,2022/12/02,25,6,CT6 6LG,CT6   6LG,Order Confirmed,2022/12/02,Unavailable,
+BRU00007764,Toothbrush 2000,2022/12/01,73,9,BN17 6QZ,BN17   6QZ,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00008073,Toothbrush 2000,2022/12/02,88,2,CV12 8TE,CV12   8TE,Order Confirmed,2022/12/02,Unavailable,
+BRU00007950,Toothbrush 2000,2022/12/02,88,4,CF71 7RX,CF71   7RX,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007715,Toothbrush 4000,2022/12/01,22,3,E8 3JN,E8   3JN,Order Received,2022/12/01,Unavailable,
+BRU00008258,Toothbrush 2000,2022/12/01,62,4,CO12 3QF,CO12   3QF,Order Received,2022/12/01,Unavailable,
+BRU00007707,Toothbrush 4000,2022/12/02,15,8,CH45 5DU,CH45   5DU,Order Received,2022/12/02,Unavailable,
+BRU00008213,Toothbrush 4000,2022/12/02,19,6,FK14 7LH,FK14   7LH,Order Received,2022/12/02,Unavailable,
+BRU00007873,Toothbrush 2000,2022/12/01,75,2,IM9 6BZ,IM9   6BZ,Order Received,2022/12/01,Unavailable,
+BRU00007737,Toothbrush 4000,2022/12/02,34,6,G53 5AW,G53   5AW,Order Confirmed,2022/12/02,Unavailable,
+BRU00008304,Toothbrush 4000,2022/12/02,27,9,DD4 9BB,DD4   9BB,Order Confirmed,2022/12/02,Unavailable,
+BRU00007769,Toothbrush 2000,2022/12/01,79,6,DE73 8AR,DE73   8AR,Order Confirmed,2022/12/01,Unavailable,
+BRU00007751,Toothbrush 4000,2022/12/01,11,4,CT19 5HD,CT19   5HD,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00008233,Toothbrush 2000,2022/12/01,70,4,BN21 4PT,BN21   4PT,Order Received,2022/12/01,Unavailable,
+BRU00008118,Toothbrush 4000,2022/12/02,31,2,DL9 4DN,DL9   4DN,Order Received,2022/12/02,Unavailable,
+BRU00008242,Toothbrush 4000,2022/12/01,37,3,BA1 2UT,BA1   2UT,Order Received,2022/12/01,Unavailable,
+BRU00007936,Toothbrush 2000,2022/12/02,66,2,CV31 1HL,CV31   1HL,Order Received,2022/12/02,Unavailable,
+BRU00007951,Toothbrush 2000,2022/12/01,87,9,BH12 9NL,BH12   9NL,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00007869,Toothbrush 2000,2022/12/01,87,8,CW2 6ND,CW2   6ND,Order Confirmed,2022/12/01,Unavailable,
+BRU00008183,Toothbrush 2000,2022/12/01,66,4,BR1 3NJ,BR1   3NJ,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00008231,Toothbrush 4000,2022/12/02,49,7,AB43 8RH,AB43   8RH,Order Received,2022/12/02,Unavailable,
+BRU00007970,Toothbrush 2000,2022/12/02,66,3,CR4 1LX,CR4   1LX,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008081,Toothbrush 2000,2022/12/01,84,6,DN7 5JZ,DN7   5JZ,Order Confirmed,2022/12/01,Unavailable,
+BRU00007928,Toothbrush 4000,2022/12/02,17,5,EH10 6NT,EH10   6NT,Order Received,2022/12/02,Unavailable,
+BRU00007986,Toothbrush 4000,2022/12/02,26,5,IP28 8PG,IP28   8PG,Order Received,2022/12/02,Unavailable,
+BRU00007949,Toothbrush 4000,2022/12/01,28,3,FK7 8JA,FK7   8JA,Order Received,2022/12/01,Unavailable,
+BRU00008192,Toothbrush 4000,2022/12/02,22,2,CA11 7DQ,CA11   7DQ,Order Received,2022/12/02,Unavailable,
+BRU00008139,Toothbrush 2000,2022/12/02,75,1,CF36 3RL,CF36   3RL,Order Received,2022/12/02,Unavailable,
+BRU00007698,Toothbrush 4000,2022/12/02,33,6,BS36 2DP,BS36   2DP,Order Received,2022/12/02,Unavailable,
+BRU00008145,Toothbrush 2000,2022/12/02,58,9,CB2 9ER,CB2   9ER,Order Received,2022/12/02,Unavailable,
+BRU00007712,Toothbrush 4000,2022/12/02,33,2,BH20 7HB,BH20   7HB,Order Confirmed,2022/12/02,Unavailable,
+BRU00008140,Toothbrush 4000,2022/12/02,38,6,CM8 3HN,CM8   3HN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008195,Toothbrush 4000,2022/12/02,47,3,BN17 7QT,BN17   7QT,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008103,Toothbrush 4000,2022/12/02,37,7,B5 7XN,B5   7XN,Order Received,2022/12/02,Unavailable,
+BRU00008245,Toothbrush 4000,2022/12/02,19,7,DD1 2AF,DD1   2AF,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007898,Toothbrush 4000,2022/12/01,26,7,DE11 7PY,DE11   7PY,Dispatched,2022/12/02,Unsuccessful,2022/12/03
+BRU00007786,Toothbrush 2000,2022/12/02,59,5,BR2 7QE,BR2   7QE,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008052,Toothbrush 4000,2022/12/02,29,6,E6 3ND,E6   3ND,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008059,Toothbrush 4000,2022/12/02,28,6,CV5 7BT,CV5   7BT,Order Received,2022/12/02,Unavailable,
+BRU00007794,Toothbrush 2000,2022/12/02,62,7,BN2 5LS,BN2   5LS,Order Received,2022/12/02,Unavailable,
+BRU00008097,Toothbrush 2000,2022/12/02,83,1,DY12 9AP,DY12   9AP,Order Received,2022/12/02,Unavailable,
+BRU00007910,Toothbrush 4000,2022/12/02,39,5,CH62 5ES,CH62   5ES,Order Received,2022/12/02,Unavailable,
+BRU00008086,Toothbrush 2000,2022/12/02,71,9,G71 8ED,G71   8ED,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007754,Toothbrush 2000,2022/12/02,79,6,CA1 2WD,CA1   2WD,Order Confirmed,2022/12/02,Unavailable,
+BRU00007968,Toothbrush 4000,2022/12/02,15,9,CF15 7TL,CF15   7TL,Order Confirmed,2022/12/02,Unavailable,
+BRU00007974,Toothbrush 4000,2022/12/01,45,7,BB11 1AP,BB11   1AP,Order Confirmed,2022/12/01,Unavailable,
+BRU00007999,Toothbrush 4000,2022/12/02,40,4,B24 0AR,B24   0AR,Dispatched,2022/12/03,Unsuccessful,2022/12/04
+BRU00008082,Toothbrush 4000,2022/12/01,19,2,BN14 0RA,BN14   0RA,Order Received,2022/12/01,Unavailable,
+BRU00008098,Toothbrush 2000,2022/12/02,68,9,E4 8PT,E4   8PT,Order Received,2022/12/02,Unavailable,
+BRU00007853,Toothbrush 4000,2022/12/02,37,6,CR2 0FH,CR2   0FH,Order Received,2022/12/02,Unavailable,
+BRU00007972,Toothbrush 4000,2022/12/02,31,2,GL55 6JQ,GL55   6JQ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00008256,Toothbrush 2000,2022/12/02,74,4,HG3 5BS,HG3   5BS,Order Received,2022/12/02,Unavailable,
+BRU00008262,Toothbrush 2000,2022/12/01,63,8,BD2 4NU,BD2   4NU,Dispatched,2022/12/02,Unsuccessful,2022/12/02
+BRU00008133,Toothbrush 4000,2022/12/02,28,4,GU6 8GN,GU6   8GN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006863,Toothbrush 2000,2022/12/01,80,4,EX5 205PB,BR2 0BD,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007388,Toothbrush 4000,2022/12/02,18,3,B61 207DU,CW7 2AA,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007340,Toothbrush 4000,2022/12/01,17,3,GU32 209SF,EX17 2BU,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007010,Toothbrush 4000,2022/12/01,15,9,HG4 205JX,BL7 0PU,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007007,Toothbrush 4000,2022/12/02,25,2,DE73 208FZ,DN14 8PG,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007392,Toothbrush 4000,2022/12/02,26,5,HA8 205NJ,HD2 1HN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007370,Toothbrush 4000,2022/12/02,14,4,E20 201LT,G32 7SH,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007509,Toothbrush 2000,2022/12/02,61,1,EH40 203EB,CF37 5PX,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007497,Toothbrush 4000,2022/12/01,9,5,E11 204AN,GL56 0NU,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007377,Toothbrush 4000,2022/12/02,24,3,CV32 207DW,G63 0TQ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007512,Toothbrush 4000,2022/12/02,17,8,HA9 200LG,B33 9SY,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007045,Toothbrush 4000,2022/12/01,28,9,GL3 201NE,EH30 9PR,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007389,Toothbrush 2000,2022/12/02,77,5,HX3 207NR,CT3 2HJ,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007195,Toothbrush 2000,2022/12/02,58,9,DN15 208HA,CA17 4BB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007604,Toothbrush 4000,2022/12/01,18,5,CH46 208UN,EX36 4DJ,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007264,Toothbrush 2000,2022/12/01,70,4,HP15 207FR,HX1 1JA,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007314,Toothbrush 4000,2022/12/02,4,1,BD1 202RD,G77 5AA,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007304,Toothbrush 4000,2022/12/02,29,6,B10 200SW,DD8 5ET,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007329,Toothbrush 4000,2022/12/02,23,9,DE55 206BH,CA23 3DT,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007369,Toothbrush 4000,2022/12/01,19,3,B78 203EE,G75 0DE,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007163,Toothbrush 2000,2022/12/01,68,6,BA6 208PF,DY3 4BP,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007093,Toothbrush 4000,2022/12/02,33,9,EX15 202EY,DY14 9NN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007008,Toothbrush 4000,2022/12/01,21,1,HP17 208XF,IM8 1LL,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007043,Toothbrush 4000,2022/12/02,25,4,CF24 203DZ,DT2 9FG,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007286,Toothbrush 2000,2022/12/01,72,5,EX13 207DP,HP5 2XX,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007149,Toothbrush 2000,2022/12/02,86,8,AB53 204BP,CO3 3RS,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007320,Toothbrush 4000,2022/12/01,15,2,CT11 208AU,CO12 4RD,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007128,Toothbrush 2000,2022/12/01,84,1,BA2 202UL,BD15 7HB,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007519,Toothbrush 4000,2022/12/01,21,1,CM77 208EJ,G4 0PX,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007006,Toothbrush 2000,2022/12/01,62,6,GU2 208BE,EX31 3BN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007469,Toothbrush 4000,2022/12/01,16,8,EX20 201SN,AL2 3HJ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007189,Toothbrush 4000,2022/12/02,24,4,CF61 202UP,HU5 3NZ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007139,Toothbrush 2000,2022/12/01,64,2,B16 209HN,B21 0ET,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007038,Toothbrush 4000,2022/12/01,34,5,CH61 203XX,DL13 3QS,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007182,Toothbrush 2000,2022/12/02,72,7,BB11 201PS,EX16 8FF,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007590,Toothbrush 2000,2022/12/01,79,6,CV47 208LQ,BL9 9LB,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007065,Toothbrush 4000,2022/12/02,26,6,FY1 205HF,GU19 5JU,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00006883,Toothbrush 4000,2022/12/03,14,5,B60 202NL,FY1 9SP,Dispatched,2022/12/03,Delivered,2022/12/04
+BRU00007498,Toothbrush 2000,2022/12/02,67,3,BA14 209PT,IP18 6NL,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007224,Toothbrush 2000,2022/12/02,90,1,E6 205JY,FY4 4HP,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007610,Toothbrush 4000,2022/12/01,31,1,DG6 204BN,BS8 2LT,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007265,Toothbrush 2000,2022/12/02,79,5,B91 203DU,FY2 0WE,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007305,Toothbrush 2000,2022/12/02,80,5,CV10 208AP,GU24 9QY,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007491,Toothbrush 4000,2022/12/02,26,3,FK6 206LA,CH65 7AF,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007380,Toothbrush 2000,2022/12/02,57,5,GU27 201PU,HU7 3AA,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007578,Toothbrush 4000,2022/12/02,20,5,DL8 201AL,BR6 0WA,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007244,Toothbrush 2000,2022/12/02,90,8,CW5 208ER,BB4 9PJ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006935,Toothbrush 2000,2022/12/02,51,8,CH48 201PE,HA8 7UA,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007411,Toothbrush 4000,2022/12/01,20,4,GL17 209DE,BN23 7QT,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007476,Toothbrush 2000,2022/12/02,91,1,BA2 207GH,CA7 2AU,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006877,Toothbrush 4000,2022/12/01,32,5,BN26 206QS,CO1 2NN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007177,Toothbrush 2000,2022/12/01,96,8,EX12 202AH,GU19 5JN,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007576,Toothbrush 4000,2022/12/01,33,3,HD8 200AR,BL7 0AN,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007193,Toothbrush 2000,2022/12/01,69,8,FK13 206DU,BS40 5TJ,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007308,Toothbrush 4000,2022/12/02,20,2,FK14 207LZ,FK5 4UB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006950,Toothbrush 2000,2022/12/01,66,7,DD8 202RE,GU1 9SF,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006976,Toothbrush 2000,2022/12/01,69,3,HX3 209EY,BL1 9SL,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007553,Toothbrush 4000,2022/12/02,32,5,DY4 208RP,CH4 0QG,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007412,Toothbrush 4000,2022/12/02,27,6,BN16 201SH,CR0 7JB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007321,Toothbrush 4000,2022/12/02,29,1,BD4 200TE,BN5 9HE,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007333,Toothbrush 2000,2022/12/01,71,9,EH12 201EX,HG3 5EQ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007127,Toothbrush 2000,2022/12/02,75,1,GU35 200LQ,B30 1DP,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007014,Toothbrush 2000,2022/12/01,78,3,DA3 208QB,EH54 6SW,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007246,Toothbrush 2000,2022/12/02,73,5,CV1 205HU,HA9 0GU,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007536,Toothbrush 4000,2022/12/01,29,3,CM12 200DX,BD2 4RS,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007061,Toothbrush 4000,2022/12/02,42,1,GU34 202DG,EH19 3EA,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007070,Toothbrush 2000,2022/12/01,78,1,BH14 209DQ,DE74 2DF,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007429,Toothbrush 2000,2022/12/02,97,7,EH54 205JJ,HP1 9QR,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007150,Toothbrush 4000,2022/12/02,35,3,DY10 203BL,CM1 2RE,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007636,Toothbrush 2000,2022/12/02,73,1,HA8 209JP,BB18 5HR,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007067,Toothbrush 4000,2022/12/01,10,4,GL19 204HH,G31 4XR,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007403,Toothbrush 4000,2022/12/02,42,7,B64 206QD,HA3 7NH,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007468,Toothbrush 4000,2022/12/02,33,6,ct195hx,dd112qr,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006856,Toothbrush 4000,2022/12/02,18,6,b388jr,dd36qg,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007398,Toothbrush 4000,2022/12/02,24,7,cv344bx,ct91pj,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007283,Toothbrush 2000,2022/12/02,69,9,cm40qb,dd54uj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007029,Toothbrush 2000,2022/12/02,93,4,gl32pd,fy16ab,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007222,Toothbrush 4000,2022/12/02,12,1,bn119sl,bs405hx,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006948,Toothbrush 4000,2022/12/02,21,4,da144jy,dt96rz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007210,Toothbrush 4000,2022/12/02,25,5,cv311ng,e35pt,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007479,Toothbrush 4000,2022/12/02,34,7,da161lj,eh43nl,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007425,Toothbrush 4000,2022/12/02,17,6,hs29qx,g444dp,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007584,Toothbrush 4000,2022/12/01,17,4,ct156hu,ig26be,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007387,Toothbrush 2000,2022/12/02,82,9,bs57dt,hp12bh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007623,Toothbrush 2000,2022/12/02,65,5,cf30hp,bh122ah,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007075,Toothbrush 2000,2022/12/01,55,9,da52bg,ca26jn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007371,Toothbrush 2000,2022/12/01,75,4,ab425su,g768re,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007072,Toothbrush 2000,2022/12/01,87,1,b911bw,dg165dd,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007005,Toothbrush 4000,2022/12/02,20,3,cv47bp,dh23ln,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006957,Toothbrush 2000,2022/12/02,68,4,g839at,bl79ta,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007158,Toothbrush 2000,2022/12/01,81,6,ch466el,bs228sj,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007197,Toothbrush 4000,2022/12/02,32,8,e140qq,hg50jr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007646,Toothbrush 2000,2022/12/01,84,7,e107hs,ig95bl,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007393,Toothbrush 2000,2022/12/02,84,7,dh79dn,cv129qu,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007431,Toothbrush 4000,2022/12/02,35,7,eh67ag,bl00qw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007092,Toothbrush 2000,2022/12/02,80,3,dd38bb,dh86ng,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006922,Toothbrush 2000,2022/12/01,74,6,ch71hr,gu280ee,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007489,Toothbrush 2000,2022/12/01,60,5,ha38dr,hu95sj,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007035,Toothbrush 4000,2022/12/01,29,7,ex42hn,cm20eb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007430,Toothbrush 2000,2022/12/02,66,1,cb89dj,bd94ss,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006998,Toothbrush 2000,2022/12/01,78,8,bl81dz,cf470tb,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006869,Toothbrush 2000,2022/12/02,70,7,hd21ps,bn150pg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007198,Toothbrush 2000,2022/12/02,87,3,cf819jr,ba116ql,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007104,Toothbrush 2000,2022/12/01,77,1,hs20ds,eh106st,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007328,Toothbrush 2000,2022/12/01,85,6,dt117pw,b756hp,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007383,Toothbrush 4000,2022/12/02,24,2,en36wu,co43hr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007260,Toothbrush 2000,2022/12/01,69,5,g781pu,b755jg,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007426,Toothbrush 2000,2022/12/02,60,3,ch497nf,ca13hf,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007357,Toothbrush 4000,2022/12/01,41,8,dd97rq,bs90en,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007552,Toothbrush 4000,2022/12/01,21,6,b297jx,ct194rj,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007550,Toothbrush 4000,2022/12/02,35,9,dd97tx,b662bp,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007087,Toothbrush 4000,2022/12/01,32,3,b203hu,dn104dh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007326,Toothbrush 2000,2022/12/02,69,2,br19js,ab421tf,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007100,Toothbrush 4000,2022/12/02,27,7,en37wt,b376ad,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007023,Toothbrush 2000,2022/12/02,90,7,im24nz,dn311ns,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007302,Toothbrush 2000,2022/12/02,64,2,ch431yq,e66fe,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007132,Toothbrush 2000,2022/12/01,68,2,dg73nw,bn424at,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007282,Toothbrush 4000,2022/12/01,22,2,b691lj,e1w1ue,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006914,Toothbrush 4000,2022/12/02,27,3,cw100lx,bb115dj,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007247,Toothbrush 2000,2022/12/01,89,8,gu144gz,ch54gh,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007256,Toothbrush 4000,2022/12/02,51,8,hg43pw,hr53ar,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007012,Toothbrush 2000,2022/12/02,72,2,fk15jn,b389af,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007058,Toothbrush 2000,2022/12/01,92,7,dd30rl,ab392lh,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007373,Toothbrush 2000,2022/12/01,76,2,bs138nj,g403hf,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007557,Toothbrush 2000,2022/12/01,71,6,ip15fa,ba228lx,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007044,Toothbrush 4000,2022/12/01,45,5,b645dr,b113hd,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006977,Toothbrush 4000,2022/12/02,18,6,cf328eg,bn150je,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007125,Toothbrush 2000,2022/12/01,62,5,e10bh,cf242tz,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006940,Toothbrush 4000,2022/12/02,21,6,e111hu,cf35sn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007073,Toothbrush 4000,2022/12/02,22,8,dt69ep,cr35ex,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006951,Toothbrush 2000,2022/12/01,62,1,hp112uq,cv61hf,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006855,Toothbrush 2000,2022/12/02,81,6,bb24gr,ch469qh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007267,Toothbrush 2000,2022/12/01,86,2,ab314dx,g429tq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007080,Toothbrush 4000,2022/12/02,36,1,ch603sd,cf717pz,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007049,Toothbrush 2000,2022/12/02,79,7,al23pa,gl139ba,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007585,Toothbrush 2000,2022/12/02,87,8,ch89uj,cr03dj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007417,Toothbrush 2000,2022/12/02,76,3,hp225ft,g512uz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007082,Toothbrush 2000,2022/12/02,76,5,bn237lj,bh217dw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007013,Toothbrush 4000,2022/12/01,18,4,bh241ff,bd159jy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006963,Toothbrush 2000,2022/12/01,60,7,b129ed,gl193ag,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007220,Toothbrush 4000,2022/12/01,18,3,bd235ex,cm13hg,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007467,Toothbrush 4000,2022/12/02,23,7,bs329ay,cr09xy,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007503,Toothbrush 4000,2022/12/01,38,6,gl127aq,b783xl,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007438,Toothbrush 2000,2022/12/02,74,8,dn213al,g727fg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007376,Toothbrush 2000,2022/12/02,92,5,cf119pe,bl66rb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007355,Toothbrush 4000,2022/12/02,38,4,cf627ay,dh47nt,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007348,Toothbrush 4000,2022/12/02,17,4,bd232qq,ex111hf,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007143,Toothbrush 4000,2022/12/02,37,4,da28ar,e63qh,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007152,Toothbrush 4000,2022/12/01,31,8,da27ws,fk20rb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007015,Toothbrush 2000,2022/12/02,65,8,ab425ly,co91hr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007449,Toothbrush 4000,2022/12/02,25,5,cm98sx,bd208fd,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007055,Toothbrush 4000,2022/12/01,33,9,ip16hy,ip224jh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007591,Toothbrush 4000,2022/12/02,27,6,hu32he,bd209ly,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007017,Toothbrush 4000,2022/12/01,32,8,g311qf,ha03rq,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007270,Toothbrush 2000,2022/12/02,80,7,b322sz,hu95af,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007000,Toothbrush 4000,2022/12/02,27,8,cf479rt,hp199ar,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00006972,Toothbrush 2000,2022/12/02,103,9,bd132jf,ha73ee,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006927,Toothbrush 4000,2022/12/01,15,7,bn140rd,cm38aj,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007542,Toothbrush 4000,2022/12/02,10,9,cb98ea,dl21sg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006905,Toothbrush 4000,2022/12/01,41,8,ex68qt,b145nt,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007030,Toothbrush 4000,2022/12/02,29,2,dh64sy,fk101jj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007570,Toothbrush 4000,2022/12/02,37,9,bh214eh,ct67af,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007297,Toothbrush 2000,2022/12/02,87,6,ab228nl,de240as,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006908,Toothbrush 4000,2022/12/02,26,1,cr26bx,cv63bg,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007089,Toothbrush 4000,2022/12/02,6,5,g129rz,br29pq,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007502,Toothbrush 2000,2022/12/02,80,2,cw25tq,ba209gr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006911,Toothbrush 2000,2022/12/01,64,6,ex96lw,dg73ds,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006904,Toothbrush 4000,2022/12/02,31,2,ip39jj,ha86jx,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007609,Toothbrush 2000,2022/12/01,65,9,en54aa,ex27gy,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007255,Toothbrush 4000,2022/12/02,24,9,gy93yp,en76aw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007478,Toothbrush 4000,2022/12/02,45,8,bh238dh,e146bb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007525,Toothbrush 2000,2022/12/01,87,5,e182jp,de231qe,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007677,Toothbrush 4000,2022/12/02,15,5,bn237az,ch72ba,Dispatched,2022/12/03,Delivered,2022/12/04
+BRU00007664,Toothbrush 4000,2022/12/01,24,4,dh33tw,cm35yr,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007356,Toothbrush 2000,2022/12/01,93,7,ct149ep,bn998ll,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007367,Toothbrush 2000,2022/12/01,67,2,e105ry,co148dp,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007111,Toothbrush 2000,2022/12/01,93,8,b82qy,bl17ru,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007447,Toothbrush 2000,2022/12/02,67,9,co148rz,dy82hg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007236,Toothbrush 4000,2022/12/02,28,2,ba25by,eh164fy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007477,Toothbrush 2000,2022/12/01,78,9,dd46pn,bl15dr,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007284,Toothbrush 2000,2022/12/02,91,6,dl42lb,dn332hq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007612,Toothbrush 2000,2022/12/01,75,9,ch71ry,b980qq,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007549,Toothbrush 4000,2022/12/02,14,6,bs234jl,bs312eq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007463,Toothbrush 4000,2022/12/01,23,1,dy149re,bb104nj,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007018,Toothbrush 2000,2022/12/02,68,8,ab119jh,g733aj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007074,Toothbrush 4000,2022/12/01,23,8,ab538eb,hp124rw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006862,Toothbrush 4000,2022/12/01,26,8,eh153pf,hr35ax,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007071,Toothbrush 4000,2022/12/02,14,6,ch662yp,e139el,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006913,Toothbrush 2000,2022/12/01,72,6,ip130jj,gl517qe,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006917,Toothbrush 2000,2022/12/01,86,3,eh141dg,dt36qj,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006968,Toothbrush 4000,2022/12/02,38,6,cm62gb,gu32ax,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007647,Toothbrush 2000,2022/12/01,82,6,dn364ln,bh229dt,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006925,Toothbrush 2000,2022/12/02,70,4,ba51ar,dn140fn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007415,Toothbrush 4000,2022/12/02,34,9,ip100jq,cb13rs,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006916,Toothbrush 4000,2022/12/01,28,6,dl61dq,g727sa,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007091,Toothbrush 4000,2022/12/02,35,3,de243lu,gl509te,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006985,Toothbrush 2000,2022/12/01,75,1,de655fz,cf402qu,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007327,Toothbrush 2000,2022/12/01,74,2,cf140sg,ex85es,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007619,Toothbrush 4000,2022/12/02,35,9,ig75qp,de560ad,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007494,Toothbrush 2000,2022/12/01,52,1,e113he,ba16hw,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007611,Toothbrush 2000,2022/12/02,71,4,b249ap,ba160hr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007625,Toothbrush 2000,2022/12/02,96,3,br13jz,dl167us,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00006903,Toothbrush 2000,2022/12/02,65,4,dl63ar,al71fw,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007114,Toothbrush 4000,2022/12/02,26,6,cw27js,ex153ln,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00006857,Toothbrush 4000,2022/12/02,39,5,en75ax,bs232nh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007154,Toothbrush 4000,2022/12/01,30,2,ip164pb,g537dz,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007593,Toothbrush 4000,2022/12/02,34,1,br87qz,gu179hz,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007289,Toothbrush 4000,2022/12/02,21,3,cv108bf,g314dn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007521,Toothbrush 2000,2022/12/01,63,2,g825ax,fk11hn,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007240,Toothbrush 4000,2022/12/01,18,3,de655dj,co58ay,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006902,Toothbrush 2000,2022/12/02,81,1,hp181az,g235px,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007451,Toothbrush 4000,2022/12/02,25,4,dt118tp,g811el,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007633,Toothbrush 4000,2022/12/02,22,2,ex238fz,bn229ph,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007056,Toothbrush 2000,2022/12/02,76,3,gy46je,ab526qb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007522,Toothbrush 4000,2022/12/01,25,9,ip209ls,hr69gb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007331,Toothbrush 4000,2022/12/02,43,6,e34nl,ha61du,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006893,Toothbrush 4000,2022/12/02,29,4,ab238dl,cm194da,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007535,Toothbrush 4000,2022/12/02,12,4,b987ay,g775ht,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007547,Toothbrush 4000,2022/12/02,33,2,cr00qb,bb88rw,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007566,Toothbrush 4000,2022/12/01,33,7,al97pu,bn159ry,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006875,Toothbrush 4000,2022/12/02,30,2,eh125sy,en88bj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006900,Toothbrush 2000,2022/12/02,94,7,dl94jn,im91bb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007332,Toothbrush 2000,2022/12/01,103,9,hx50ne,g735qb,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007427,Toothbrush 4000,2022/12/02,29,9,e20bj,ip198bs,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007554,Toothbrush 2000,2022/12/02,88,4,b237dx,ab242bl,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007146,Toothbrush 4000,2022/12/02,14,1,hs20nq,ab546hy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006931,Toothbrush 2000,2022/12/02,74,1,cv326dq,dt93dz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006886,Toothbrush 4000,2022/12/01,31,8,de139rh,ha47ql,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007153,Toothbrush 4000,2022/12/02,26,1,ct94ea,bl51dw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006906,Toothbrush 2000,2022/12/02,77,3,b601af,b322tj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007362,Toothbrush 4000,2022/12/02,31,6,bs229wu,gu27uj,Dispatched,2022/12/03,Delivered,2022/12/04
+BRU00007021,Toothbrush 4000,2022/12/01,28,7,de42nw,ab436sr,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007169,Toothbrush 2000,2022/12/02,60,5,bl83lq,dy138ye,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007548,Toothbrush 4000,2022/12/02,27,3,b761ng,dg130pj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006952,Toothbrush 2000,2022/12/01,84,2,de233bw,g429la,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006986,Toothbrush 2000,2022/12/02,87,8,cv376ef,gu519sb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007466,Toothbrush 2000,2022/12/01,74,2,fy67pt,bn211su,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007651,Toothbrush 2000,2022/12/01,69,4,g131qx,cm96wg,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007251,Toothbrush 2000,2022/12/02,75,6,ch437zn,ec4r0da,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007090,Toothbrush 4000,2022/12/02,33,3,ca30by,g36uj,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007068,Toothbrush 2000,2022/12/02,86,5,dn163er,e161nr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006944,Toothbrush 4000,2022/12/01,19,5,ch76pj,cv92dl,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007391,Toothbrush 4000,2022/12/01,45,9,dt34le,b330nu,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007455,Toothbrush 2000,2022/12/01,85,2,dl85aa,dh76bf,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007613,Toothbrush 2000,2022/12/01,71,6,cm195sg,hu52pj,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006896,Toothbrush 2000,2022/12/01,70,8,b421he,cr81bh,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007342,Toothbrush 4000,2022/12/02,24,2,b152bw,b152bw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007322,Toothbrush 4000,2022/12/02,25,6,gl60bt,gl60bt,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007588,Toothbrush 4000,2022/12/01,30,6,g744tb,g744tb,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007644,Toothbrush 2000,2022/12/01,84,6,bl34xa,bl34xa,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006858,Toothbrush 2000,2022/12/01,59,5,g50tf,g50tf,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007094,Toothbrush 4000,2022/12/01,16,8,cv47dj,cv47dj,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006939,Toothbrush 2000,2022/12/02,87,8,hp111dp,hp111dp,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007301,Toothbrush 2000,2022/12/01,64,8,ex364eu,ex364eu,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006954,Toothbrush 4000,2022/12/02,33,7,co28jj,co28jj,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00006962,Toothbrush 2000,2022/12/02,74,9,e96dg,e96dg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007051,Toothbrush 4000,2022/12/02,29,9,al55bu,al55bu,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007507,Toothbrush 2000,2022/12/02,87,4,al100bd,al100bd,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007659,Toothbrush 2000,2022/12/01,60,3,cf235np,cf235np,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007655,Toothbrush 2000,2022/12/02,85,7,bh63lj,bh63lj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007069,Toothbrush 2000,2022/12/02,58,7,dn377sw,dn377sw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007050,Toothbrush 4000,2022/12/02,29,1,hp53fn,hp53fn,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006859,Toothbrush 4000,2022/12/02,20,8,b389tp,b389tp,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007185,Toothbrush 2000,2022/12/02,61,9,cw13ay,cw13ay,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007397,Toothbrush 4000,2022/12/02,25,6,ip265eq,ip265eq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006876,Toothbrush 4000,2022/12/01,33,3,cf832lb,cf832lb,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006878,Toothbrush 4000,2022/12/02,18,3,hg27ah,hg27ah,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007294,Toothbrush 4000,2022/12/02,13,3,ig88gs,ig88gs,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007081,Toothbrush 2000,2022/12/01,72,2,ec1r1uq,ec1r1uq,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007079,Toothbrush 2000,2022/12/01,80,9,g116xe,g116xe,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007504,Toothbrush 2000,2022/12/01,70,7,bl31ha,bl31ha,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007510,Toothbrush 2000,2022/12/01,92,8,cf143hu,cf143hu,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007036,Toothbrush 4000,2022/12/02,21,4,ex122rb,ex122rb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007446,Toothbrush 2000,2022/12/01,84,8,dd12jb,dd12jb,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007298,Toothbrush 2000,2022/12/01,70,9,fy69aw,fy69aw,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006860,Toothbrush 4000,2022/12/02,36,1,co156he,co156he,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007581,Toothbrush 4000,2022/12/01,30,3,ha86sa,ha86sa,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007589,Toothbrush 4000,2022/12/02,10,2,bb87ln,bb87ln,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007660,Toothbrush 2000,2022/12/02,56,3,fk27gj,fk27gj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007096,Toothbrush 2000,2022/12/02,72,9,ct179ta,ct179ta,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007358,Toothbrush 4000,2022/12/02,11,4,bh205dp,bh205dp,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007365,Toothbrush 2000,2022/12/02,64,3,b421qn,b421qn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007621,Toothbrush 2000,2022/12/01,82,5,bb90eh,bb90eh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006982,Toothbrush 2000,2022/12/01,81,8,hx38ra,hx38ra,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007112,Toothbrush 2000,2022/12/02,59,6,ch35sf,ch35sf,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007299,Toothbrush 4000,2022/12/02,32,8,b975nn,b975nn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007041,Toothbrush 4000,2022/12/01,29,9,b339uu,b339uu,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007212,Toothbrush 4000,2022/12/02,21,7,co78su,co78su,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007421,Toothbrush 2000,2022/12/01,82,9,hx28je,hx28je,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006895,Toothbrush 4000,2022/12/02,26,7,dy116qj,dy116qj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007474,Toothbrush 4000,2022/12/02,31,3,gl27hq,gl27hq,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007666,Toothbrush 4000,2022/12/02,30,5,dn75sb,dn75sb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007273,Toothbrush 2000,2022/12/01,90,6,gl79sn,gl79sn,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007669,Toothbrush 4000,2022/12/02,17,5,gu254aa,gu254aa,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006854,Toothbrush 4000,2022/12/02,23,6,im23ax,im23ax,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007287,Toothbrush 2000,2022/12/01,55,5,cb236eg,cb236eg,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007418,Toothbrush 4000,2022/12/01,20,1,ip14dp,ip14dp,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007648,Toothbrush 2000,2022/12/02,80,8,ip294ar,ip294ar,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007278,Toothbrush 2000,2022/12/01,99,4,da11up,da11up,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007046,Toothbrush 4000,2022/12/02,32,8,fy30an,fy30an,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006934,Toothbrush 4000,2022/12/02,21,8,e130jy,e130jy,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007130,Toothbrush 2000,2022/12/01,89,4,ab534hq,ab534hq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007187,Toothbrush 2000,2022/12/01,70,4,bb13lb,bb13lb,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007395,Toothbrush 2000,2022/12/02,65,4,cv239fn,cv239fn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007500,Toothbrush 2000,2022/12/01,82,5,g314qp,g314qp,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007168,Toothbrush 4000,2022/12/02,35,5,e14fs,e14fs,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007001,Toothbrush 4000,2022/12/02,25,9,hg35ab,hg35ab,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006924,Toothbrush 4000,2022/12/02,33,4,ch39jj,ch39jj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007471,Toothbrush 4000,2022/12/01,26,4,gu358jh,gu358jh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006890,Toothbrush 2000,2022/12/02,64,1,ab326nz,ab326nz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007674,Toothbrush 2000,2022/12/01,79,3,dh70nl,dh70nl,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007019,Toothbrush 4000,2022/12/01,16,8,gu12ub,gu12ub,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007191,Toothbrush 2000,2022/12/01,81,9,dg112ly,dg112ly,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007527,Toothbrush 2000,2022/12/02,60,1,cm231er,cm231er,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006967,Toothbrush 4000,2022/12/02,21,8,ab210fz,ab210fz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007211,Toothbrush 4000,2022/12/02,30,2,bl26tl,bl26tl,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007243,Toothbrush 2000,2022/12/01,81,5,bs207pu,bs207pu,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007117,Toothbrush 4000,2022/12/02,11,7,bs12au,bs12au,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007653,Toothbrush 4000,2022/12/01,17,1,ec2y9ap,ec2y9ap,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007359,Toothbrush 4000,2022/12/02,26,8,hp197gr,hp197gr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007351,Toothbrush 2000,2022/12/02,81,2,ip15jd,ip15jd,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007173,Toothbrush 2000,2022/12/02,87,8,dn215xa,dn215xa,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007456,Toothbrush 2000,2022/12/02,91,5,da163aw,da163aw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007324,Toothbrush 4000,2022/12/01,34,8,cm08je,cm08je,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007639,Toothbrush 2000,2022/12/01,84,6,dy83qz,dy83qz,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006921,Toothbrush 4000,2022/12/01,29,3,cm49bh,cm49bh,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007400,Toothbrush 2000,2022/12/01,74,3,ab252ee,ab252ee,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007330,Toothbrush 2000,2022/12/02,70,4,bd89eh,bd89eh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007202,Toothbrush 4000,2022/12/02,26,5,bn32tu,bn32tu,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007203,Toothbrush 4000,2022/12/01,27,5,dt27sj,dt27sj,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007572,Toothbrush 4000,2022/12/02,21,9,ab167rb,ab167rb,Dispatched,2022/12/03,Delivered,2022/12/04
+BRU00007520,Toothbrush 4000,2022/12/02,47,5,g50gz,g50gz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007313,Toothbrush 2000,2022/12/02,61,7,fy69da,fy69da,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007408,Toothbrush 4000,2022/12/02,24,1,bs137sn,bs137sn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006915,Toothbrush 4000,2022/12/02,30,6,cf717tb,cf717tb,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007381,Toothbrush 2000,2022/12/01,72,6,ex44ny,ex44ny,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007315,Toothbrush 2000,2022/12/01,101,6,hx20rl,hx20rl,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007249,Toothbrush 2000,2022/12/02,73,2,b707ld,b707ld,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007204,Toothbrush 4000,2022/12/02,17,4,hp219gp,hp219gp,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007141,Toothbrush 4000,2022/12/02,37,6,br28nw,br28nw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006865,Toothbrush 4000,2022/12/02,26,9,b461er,b461er,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007099,Toothbrush 4000,2022/12/01,37,3,gl54ue,gl54ue,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007261,Toothbrush 4000,2022/12/01,36,1,cf32pu,cf32pu,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007657,Toothbrush 2000,2022/12/01,79,2,cf833gh,cf833gh,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007028,Toothbrush 2000,2022/12/02,86,6,im94ln,im94ln,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006864,Toothbrush 2000,2022/12/02,76,9,da15lp,da15lp,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007505,Toothbrush 4000,2022/12/02,14,8,fy84td,fy84td,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007156,Toothbrush 4000,2022/12/01,26,7,gu19rr,gu19rr,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006881,Toothbrush 4000,2022/12/02,30,5,cr35pr,cr35pr,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007319,Toothbrush 2000,2022/12/01,57,1,bh148jl,bh148jl,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007214,Toothbrush 4000,2022/12/02,18,2,bn411ga,bn411ga,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007237,Toothbrush 4000,2022/12/02,25,5,ba113jf,ba113jf,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007345,Toothbrush 4000,2022/12/01,30,2,al40nj,al40nj,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006884,Toothbrush 4000,2022/12/02,24,5,ba26eu,ba26eu,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007616,Toothbrush 4000,2022/12/02,36,4,bn32rw,bn32rw,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006941,Toothbrush 2000,2022/12/01,83,7,bs31lp,bs31lp,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006973,Toothbrush 4000,2022/12/02,24,8,hd33wx,hd33wx,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007219,Toothbrush 4000,2022/12/02,24,2,b629lh,b629lh,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007594,Toothbrush 2000,2022/12/02,81,3,gl32le,gl32le,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006932,Toothbrush 2000,2022/12/01,93,3,de119eb,de119eb,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007279,Toothbrush 4000,2022/12/02,39,2,ab554gh,ab554gh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007179,Toothbrush 4000,2022/12/02,20,6,im42aj,im42aj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006923,Toothbrush 2000,2022/12/01,65,5,ca130tf,ca130tf,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007452,Toothbrush 2000,2022/12/01,94,2,ba44hw,ba44hw,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007445,Toothbrush 2000,2022/12/01,70,1,gl116lf,gl116lf,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007538,Toothbrush 2000,2022/12/01,70,8,cb63ha,cb63ha,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007307,Toothbrush 2000,2022/12/01,71,6,ca27du,ca27du,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007147,Toothbrush 2000,2022/12/01,84,7,bn36ae,bn36ae,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007629,Toothbrush 2000,2022/12/01,82,9,cw100dg,cw100dg,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007410,Toothbrush 2000,2022/12/01,66,7,hu106bf,hu106bf,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006897,Toothbrush 2000,2022/12/02,70,2,gl40xy,gl40xy,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007501,Toothbrush 4000,2022/12/01,5,4,hr11lz,hr11lz,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007385,Toothbrush 4000,2022/12/02,26,9,dn92nu,dn92nu,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007673,Toothbrush 2000,2022/12/02,66,6,dl117rh,dl117rh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006945,Toothbrush 2000,2022/12/01,75,7,br35jb,br35jb,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007115,Toothbrush 2000,2022/12/02,80,1,dl140qt,dl140qt,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007231,Toothbrush 4000,2022/12/01,12,6,bb22je,bb22je,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007160,Toothbrush 2000,2022/12/02,73,1,bb90qb,bb90qb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007492,Toothbrush 2000,2022/12/01,62,3,ct110hh,ct110hh,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007116,Toothbrush 2000,2022/12/02,74,9,bn107ny,bn107ny,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007378,Toothbrush 4000,2022/12/02,29,7,eh89nb,eh89nb,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007053,Toothbrush 4000,2022/12/01,37,3,bl35lu,bl35lu,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007668,Toothbrush 4000,2022/12/02,35,9,bd24as,bd24as,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007031,Toothbrush 2000,2022/12/01,68,6,bd63yt,bd63yt,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007601,Toothbrush 2000,2022/12/01,77,8,cr08hd,cr08hd,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007126,Toothbrush 2000,2022/12/01,76,6,fk82jw,fk82jw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007213,Toothbrush 4000,2022/12/02,25,9,ba26ba,ba26ba,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007637,Toothbrush 2000,2022/12/01,79,7,ch654au,ch654au,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007290,Toothbrush 4000,2022/12/02,30,1,dh78rq,dh78rq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007559,Toothbrush 4000,2022/12/02,44,4,bs70px,bs70px,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007225,Toothbrush 2000,2022/12/02,67,9,hu139lj,hu139lj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007583,Toothbrush 2000,2022/12/01,82,3,bh232rp,bh232rp,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007122,Toothbrush 4000,2022/12/02,32,1,de44br,de44br,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007166,Toothbrush 2000,2022/12/02,68,3,fk15eu,fk15eu,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007052,Toothbrush 4000,2022/12/02,30,5,dn57ey,dn57ey,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006874,Toothbrush 4000,2022/12/01,30,5,eh259ay,eh259ay,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006936,Toothbrush 4000,2022/12/03,26,2,dn417nb,dn417nb,Dispatched,2022/12/03,Delivered,2022/12/04
+BRU00007562,Toothbrush 2000,2022/12/02,87,6,bs345jj,bs345jj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006994,Toothbrush 4000,2022/12/01,26,2,al14ty,al14ty,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007537,Toothbrush 4000,2022/12/02,14,6,bn38ls,bn38ls,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007206,Toothbrush 4000,2022/12/02,5,3,bs353nf,bs353nf,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007145,Toothbrush 2000,2022/12/01,56,8,ex100lz,ex100lz,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007533,Toothbrush 4000,2022/12/02,9,3,bh241pb,bh241pb,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007384,Toothbrush 4000,2022/12/02,23,8,dl55ex,dl55ex,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007155,Toothbrush 2000,2022/12/01,79,9,b700jb,b700jb,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007528,Toothbrush 4000,2022/12/02,22,4,e96hs,e96hs,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007205,Toothbrush 2000,2022/12/01,72,5,dd48ts,dd48ts,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006946,Toothbrush 2000,2022/12/02,71,5,bd214ay,bd214ay,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006887,Toothbrush 4000,2022/12/02,17,1,e146nh,e146nh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007064,Toothbrush 2000,2022/12/02,81,3,cm89dt,cm89dt,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007404,Toothbrush 4000,2022/12/02,34,6,bb48lb,bb48lb,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007171,Toothbrush 4000,2022/12/02,13,4,da100js,da100js,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007532,Toothbrush 4000,2022/12/02,14,4,gu229px,gu229px,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007551,Toothbrush 4000,2022/12/02,17,7,im14ne,im14ne,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007564,Toothbrush 4000,2022/12/02,35,4,ca101bd,ca101bd,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007227,Toothbrush 4000,2022/12/01,45,1,dh98pq,dh98pq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007575,Toothbrush 2000,2022/12/01,65,1,hu92rf,hu92rf,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007226,Toothbrush 2000,2022/12/02,72,5,ct202lu,ct202lu,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007436,Toothbrush 2000,2022/12/02,74,6,gl66he,gl66he,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007580,Toothbrush 2000,2022/12/01,59,2,dg54jt,dg54jt,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007341,Toothbrush 2000,2022/12/01,64,4,b903jb,b903jb,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007514,Toothbrush 2000,2022/12/02,88,5,cb249la,cb249la,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007606,Toothbrush 2000,2022/12/02,66,8,de216bq,de216bq,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007643,Toothbrush 4000,2022/12/01,20,4,bb74ej,bb74ej,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007275,Toothbrush 4000,2022/12/01,11,5,hx62ls,hx62ls,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007268,Toothbrush 2000,2022/12/02,66,5,dn227qy,dn227qy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007439,Toothbrush 2000,2022/12/02,75,8,bs91sh,bs91sh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007675,Toothbrush 4000,2022/12/02,37,1,en11rl,en11rl,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007288,Toothbrush 2000,2022/12/02,78,4,e70lx,e70lx,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006861,Toothbrush 4000,2022/12/02,20,4,bn164ha,bn164ha,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007002,Toothbrush 4000,2022/12/01,27,2,ig38nq,ig38nq,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007485,Toothbrush 2000,2022/12/01,67,7,cm38ah,cm38ah,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007405,Toothbrush 2000,2022/12/01,52,7,gu215ss,gu215ss,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007334,Toothbrush 2000,2022/12/01,80,6,b301jy,b301jy,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007632,Toothbrush 4000,2022/12/02,30,8,dn200sx,dn200sx,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00006959,Toothbrush 4000,2022/12/02,8,3,cf838rf,cf838rf,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006979,Toothbrush 2000,2022/12/01,54,7,ch39ad,ch39ad,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007587,Toothbrush 2000,2022/12/02,75,4,cb30dg,cb30dg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006960,Toothbrush 4000,2022/12/02,19,4,ex227dn,ex227dn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007579,Toothbrush 2000,2022/12/02,62,7,cf449jr,cf449jr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007577,Toothbrush 2000,2022/12/01,72,4,ex312js,ex312js,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007245,Toothbrush 2000,2022/12/01,60,8,bs110gg,bs110gg,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007020,Toothbrush 2000,2022/12/01,72,9,eh526rs,eh526rs,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006880,Toothbrush 2000,2022/12/01,77,5,fk125bl,fk125bl,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006964,Toothbrush 2000,2022/12/02,64,3,cw123dn,cw123dn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007353,Toothbrush 2000,2022/12/01,92,7,dn200bd,dn200bd,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006983,Toothbrush 2000,2022/12/02,100,6,fk77es,fk77es,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007335,Toothbrush 2000,2022/12/02,73,8,e65zl,e65zl,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007656,Toothbrush 4000,2022/12/01,32,2,de64pe,de64pe,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007241,Toothbrush 2000,2022/12/01,74,1,cf641tp,cf641tp,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006888,Toothbrush 2000,2022/12/01,77,5,bs354al,bs354al,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006937,Toothbrush 4000,2022/12/02,28,1,ca145ya,ca145ya,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007223,Toothbrush 4000,2022/12/02,19,4,hx77dy,hx77dy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007037,Toothbrush 2000,2022/12/01,84,8,e14ge,e14ge,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007062,Toothbrush 4000,2022/12/02,19,5,al35ah,al35ah,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007382,Toothbrush 2000,2022/12/02,99,3,eh75bf,eh75bf,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007364,Toothbrush 2000,2022/12/01,85,7,bs166an,bs166an,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006966,Toothbrush 2000,2022/12/02,52,8,hp270eh,hp270eh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006978,Toothbrush 2000,2022/12/02,55,5,ch52jy,ch52jy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006894,Toothbrush 2000,2022/12/01,103,6,b184qw,b184qw,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007325,Toothbrush 2000,2022/12/02,67,6,co58pz,co58pz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007582,Toothbrush 4000,2022/12/01,16,2,cw109ll,cw109ll,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007306,Toothbrush 4000,2022/12/02,20,5,ig74ja,ig74ja,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007085,Toothbrush 2000,2022/12/02,103,3,eh47qy,eh47qy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007183,Toothbrush 4000,2022/12/02,35,1,gu101fj,gu101fj,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007337,Toothbrush 2000,2022/12/02,88,6,e162fn,e162fn,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007608,Toothbrush 4000,2022/12/02,39,1,bd61qd,bd61qd,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007086,Toothbrush 4000,2022/12/02,22,9,bs67rb,bs67rb,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007496,Toothbrush 2000,2022/12/01,90,6,gu24ey,gu24ey,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007556,Toothbrush 4000,2022/12/01,15,1,bl31sj,bl31sj,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007032,Toothbrush 4000,2022/12/02,30,6,b128as,b128as,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007437,Toothbrush 4000,2022/12/02,38,2,eh139jr,eh139jr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006993,Toothbrush 4000,2022/12/02,25,1,ba68ns,ba68ns,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007217,Toothbrush 4000,2022/12/02,41,7,gu254bh,gu254bh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007396,Toothbrush 2000,2022/12/02,83,3,bn18ab,bn18ab,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007545,Toothbrush 4000,2022/12/02,27,1,g642nr,g642nr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007620,Toothbrush 2000,2022/12/01,66,9,ex202lu,ex202lu,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007513,Toothbrush 2000,2022/12/01,81,5,ab158db,ab158db,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007221,Toothbrush 2000,2022/12/01,80,8,bs138ex,bs138ex,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006889,Toothbrush 2000,2022/12/02,78,1,ex227jj,ex227jj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007486,Toothbrush 2000,2022/12/01,82,7,dd39js,dd39js,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007167,Toothbrush 4000,2022/12/02,35,4,gl545xh,gl545xh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007162,Toothbrush 2000,2022/12/01,62,3,cr07hb,cr07hb,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007118,Toothbrush 2000,2022/12/01,82,6,al54eb,al54eb,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007661,Toothbrush 4000,2022/12/02,21,3,cf402eh,cf402eh,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007464,Toothbrush 2000,2022/12/01,82,1,ip242pj,ip242pj,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007573,Toothbrush 4000,2022/12/02,37,4,hp225qx,hp225qx,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007076,Toothbrush 4000,2022/12/02,19,4,bd240hr,bd240hr,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007252,Toothbrush 2000,2022/12/02,98,1,dn26ps,dn26ps,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007597,Toothbrush 4000,2022/12/02,19,5,ab106xd,ab106xd,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007003,Toothbrush 4000,2022/12/02,27,1,hp51ut,hp51ut,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006926,Toothbrush 2000,2022/12/02,63,2,b145xw,b145xw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007495,Toothbrush 2000,2022/12/01,81,3,ba34le,ba34le,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007135,Toothbrush 2000,2022/12/01,83,5,cv115xl,cv115xl,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006920,Toothbrush 2000,2022/12/02,90,7,cb88uj,cb88uj,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007040,Toothbrush 2000,2022/12/02,52,6,cf425sf,cf425sf,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007159,Toothbrush 4000,2022/12/02,26,8,dh86bl,dh86bl,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007131,Toothbrush 4000,2022/12/02,28,4,b735hn,b735hn,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007599,Toothbrush 4000,2022/12/01,14,8,cv346az,cv346az,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00006907,Toothbrush 4000,2022/12/01,20,3,dh59fy,dh59fy,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007230,Toothbrush 2000,2022/12/01,76,5,dn171xp,dn171xp,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007399,Toothbrush 4000,2022/12/01,36,7,hu13sq,hu13sq,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007544,Toothbrush 4000,2022/12/02,32,1,cf300er,cf300er,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006901,Toothbrush 4000,2022/12/01,28,7,b945jf,b945jf,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006929,Toothbrush 2000,2022/12/01,74,2,cv91qw,cv91qw,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006912,Toothbrush 4000,2022/12/02,23,8,co101pg,co101pg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007375,Toothbrush 2000,2022/12/01,75,4,bs217qr,bs217qr,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007363,Toothbrush 4000,2022/12/02,28,6,bl09ej,bl09ej,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007110,Toothbrush 2000,2022/12/01,96,7,bn176lu,bn176lu,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00007137,Toothbrush 2000,2022/12/01,91,2,fk178jh,fk178jh,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007595,Toothbrush 2000,2022/12/01,81,2,dl179ng,dl179ng,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007409,Toothbrush 2000,2022/12/02,70,1,cw13pb,cw13pb,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007277,Toothbrush 2000,2022/12/01,70,8,cb30hz,cb30hz,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007368,Toothbrush 2000,2022/12/01,95,5,b321lt,b321lt,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007640,Toothbrush 2000,2022/12/02,83,3,en87qy,en87qy,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007360,Toothbrush 4000,2022/12/02,55,3,en14sg,en14sg,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007650,Toothbrush 4000,2022/12/01,18,5,dt63rr,dt63rr,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007658,Toothbrush 4000,2022/12/02,27,1,en29hs,en29hs,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007011,Toothbrush 4000,2022/12/02,40,2,cv227xw,cv227xw,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007105,Toothbrush 2000,2022/12/02,62,6,bh192pt,bh192pt,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007634,Toothbrush 2000,2022/12/02,91,3,DG2 0DZ,DG2   0DZ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007386,Toothbrush 4000,2022/12/02,14,6,DN33 2NW,DN33   2NW,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007106,Toothbrush 4000,2022/12/02,33,3,DD4 6DL,DD4   6DL,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007499,Toothbrush 2000,2022/12/02,91,9,CB24 5AP,CB24   5AP,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006930,Toothbrush 4000,2022/12/01,41,4,DY7 5HB,DY7   5HB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007133,Toothbrush 4000,2022/12/01,25,1,AL3 5RF,AL3   5RF,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007428,Toothbrush 4000,2022/12/02,18,4,BN26 6PR,BN26   6PR,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00007274,Toothbrush 4000,2022/12/02,37,8,BL9 7RN,BL9   7RN,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007531,Toothbrush 4000,2022/12/02,17,9,CB25 0EE,CB25   0EE,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006990,Toothbrush 4000,2022/12/01,30,5,BR2 0TQ,BR2   0TQ,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007350,Toothbrush 2000,2022/12/02,95,6,EX8 3NH,EX8   3NH,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006882,Toothbrush 2000,2022/12/02,75,4,E5 8SU,E5   8SU,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007432,Toothbrush 4000,2022/12/02,24,6,BS40 6DD,BS40   6DD,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007218,Toothbrush 4000,2022/12/02,12,2,AB31 5NH,AB31   5NH,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007622,Toothbrush 2000,2022/12/02,84,6,BB2 7FT,BB2   7FT,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007516,Toothbrush 2000,2022/12/01,75,6,B36 0PB,B36   0PB,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00006984,Toothbrush 4000,2022/12/01,14,6,BB9 9TG,BB9   9TG,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007248,Toothbrush 4000,2022/12/02,31,1,BN11 3PQ,BN11   3PQ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007352,Toothbrush 2000,2022/12/02,73,2,CV5 6NF,CV5   6NF,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00006961,Toothbrush 2000,2022/12/02,86,7,CH8 8QL,CH8   8QL,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007422,Toothbrush 2000,2022/12/02,61,6,CW7 2GZ,CW7   2GZ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007539,Toothbrush 4000,2022/12/02,14,5,CH65 2EZ,CH65   2EZ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007506,Toothbrush 4000,2022/12/02,25,6,DE45 1YB,DE45   1YB,Dispatched,2022/12/03,In Transit,2022/12/03
+BRU00007523,Toothbrush 2000,2022/12/01,86,3,IG5 0ER,IG5   0ER,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007216,Toothbrush 4000,2022/12/02,15,9,CO10 2TL,CO10   2TL,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007453,Toothbrush 4000,2022/12/02,14,6,GL7 1PG,GL7   1PG,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007054,Toothbrush 4000,2022/12/02,25,4,BL5 1AJ,BL5   1AJ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007344,Toothbrush 4000,2022/12/01,27,7,AL10 0TZ,AL10   0TZ,Dispatched,2022/12/01,Delivered,2022/12/03
+BRU00006955,Toothbrush 2000,2022/12/02,65,2,GL20 5DB,GL20   5DB,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007555,Toothbrush 4000,2022/12/02,32,8,BS15 4ET,BS15   4ET,Dispatched,2022/12/02,Delivered,2022/12/04
+BRU00006910,Toothbrush 2000,2022/12/01,70,7,CT14 0EN,CT14   0EN,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007546,Toothbrush 2000,2022/12/02,92,8,HG3 5PU,HG3   5PU,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007434,Toothbrush 2000,2022/12/01,76,8,DL8 3AE,DL8   3AE,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007229,Toothbrush 2000,2022/12/02,61,2,CT9 5DJ,CT9   5DJ,Dispatched,2022/12/02,Delivered,2022/12/03
+BRU00007259,Toothbrush 2000,2022/12/01,83,5,B96 6JR,B96   6JR,Dispatched,2022/12/01,Delivered,2022/12/02
+BRU00007630,Toothbrush 2000,2022/12/01,64,2,EH51 9PH,EH51   9PH,Dispatched,2022/12/02,In Transit,2022/12/02
+BRU00007101,Toothbrush 4000,2022/12/02,20,2,BH18 9EY,BH18   9EY,Dispatched,2022/12/02,Delivered,2022/12/03

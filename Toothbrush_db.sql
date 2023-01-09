@@ -1,0 +1,1 @@
+SELECT * FROM Toothdata1.all_orders;

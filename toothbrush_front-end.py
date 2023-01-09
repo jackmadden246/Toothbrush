@@ -1,6 +1,6 @@
 <html>
 <head>
-<title> Insights regarding the Toothbrush Project</title>
+<title> Insights regarding the Toothbrush project</title>
 <style>
             #p {
                 background-color: white;
@@ -17,14 +17,9 @@
         </style>
 </head>
 <body style = "background-color:orange;">
-<h1>MariaDB insights regarding the Toothbrush Project</h1>
+<h1>MariaDB insights regarding the Toothbrush project</h1>
 <?php
-
-$servername = "database-10.cvunj1yhv8uv.eu-west-2.rds.amazonaws.com";
-$username = "admin";
-$password = "Titanic55!";
-$dbname = "Toothdata1";
-
+include_once('../../database_conn.php');
 $conn = new mysqli($servername, $username, $password, $dbname);
 
 if ($conn->connect_error) {

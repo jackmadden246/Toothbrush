@@ -3,6 +3,7 @@ import pandas as pd
 import pymysql
 import boto3
 import json
+from sqlalchemy import exc
 
 
 def lambda_handler(event, context):
@@ -17,18 +18,24 @@ def lambda_handler(event, context):
         df.drop(["is_first"], axis = 1, inplace = True)
         df["Delivery Date"] = df["Delivery Date"].astype('datetime64')
         df['Delivery Date'] = df['Delivery Date'].dt.date
-        df['Delivery Status'] = df['Delivery Status'].fillna(value="Unavailable")
-        df['Delivery Date'] = df['Delivery Date'].fillna(value="Unknown")
+        df['Delivery Status'] = df['Delivery Status'].fillna(value= 'Unknown')
+        df['Delivery Date'] = df['Delivery Date'].fillna(value = '2022/10/02')
         df['Dispatched Date'] = df['Dispatched Date'].astype('datetime64')
         df['Dispatched Date'] = df['Dispatched Date'].dt.date
         df.rename(columns={'Dispatched Date': 'Dispatch_Date', 'Order Date': 'Order_Date',
                            'Delivery Postcode': 'Delivery_Postcode', 'Order Number': 'Order_Number',
                            'Toothbrush Type': 'Toothbrush_Type', 'Customer Age': 'Customer_Age',
-                           'Order Quantity': 'Order_Quantity', 'Delivery Postcode': 'Delivery_Postcode',
-                           'Billing Postcode': 'Billing_Postcode', 'Dispatch Status': 'Dispatch_Status'}, inplace=True)
+                           'Order Quantity': 'Order_Quantity','Billing Postcode': 'Billing_Postcode',
+                           'Delivery Date': 'Delivery_Date', 'Delivery Status': 'Delivery_Status',
+                           'Dispatch Status': 'Dispatch_Status'}, inplace=True)
         maria_db_details = "mysql+pymysql://admin:Titanic55!@database-10.cvunj1yhv8uv.eu-west-2.rds.amazonaws.com:3306/Toothdata1"
         engine = sqlalchemy.create_engine(maria_db_details, echo=True)
-        df.to_sql(name='order_details', con=engine, if_exists='append')
+        for i in range (len(df)):
+                try:
+                        df.iloc[i:i + 1].to_sql(name='current_orders', con=engine, if_exists='append', index = 'id')
+                except exc.IntegrityError:
+                        # Ignore duplicates
+                        pass
     
         return {
         'statusCode': 200,

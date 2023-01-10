@@ -3,7 +3,6 @@ import pandas as pd
 import pymysql
 import boto3
 import json
-from sqlalchemy import exc
 
 def lambda_handler(event, context):
     s3 = boto3.client ( "s3" )

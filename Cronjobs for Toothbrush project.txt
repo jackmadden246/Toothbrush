@@ -1,8 +1,6 @@
 EC2 cronjobs:
 @reboot /usr/bin/python3 /home/ec2-user/s3fs-fuse/mystaticwebsite5/generate_toothbrush.py - Run Python script when EC2 instance started.
 * * * * * /usr/bin/uptime > /tmp/uptime - Checks whether cronjobs are actually running. 
-20 12 * * * /usr/bin/python3 /home/ec2-user/all_order_data.py - Runs another Python script to update database with the all orders csv file. 
-
 Lambda cronjobs:
 5 12 * * ? * - Update database with null Order data csv file.
 5 12 * * ? * - Update database with order details (current orders) csv file.

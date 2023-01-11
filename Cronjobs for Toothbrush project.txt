@@ -1,5 +1,5 @@
 EC2 cronjobs:                                                                                                                                                            
-@reboot /usr/bin/python3 /home/ec2-user/s3fs-fuse/mystaticwebsite5/generate_toothbrush.py - Run Python script when EC2 instance started.
+@reboot /usr/bin/python3 /home/ec2-user/s3fs-fuse/mystaticwebsite5/generate_toothbrush_data.py - Run Python script when EC2 instance started.
 * * * * * /usr/bin/uptime > /tmp/uptime - Checks whether cronjobs are actually running. 
 @reboot /usr/bin/python3 /home/ec2-user/all_order_data.py - Updates database with the latest live toothbrush orders 
 Lambda cronjobs:

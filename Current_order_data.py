@@ -6,12 +6,16 @@ import dask.dataframe as dd
 df = dd.read_csv("/home/ec2-user/s3fs-fuse/mystaticwebsite5/order_data.csv")
 df["Order Date"] = df["Order Date"].astype('datetime64')
 df['Order Date'] = df['Order Date'].dt.date
-df['Delivery Postcode'] = df['Delivery Postcode'].str.replace("%", " ")
+df['Delivery Postcode'] = df['Delivery Postcode'].str.replace("%", "")
+df['Delivery Postcode'] = df['Delivery Postcode'].str[:4]+' '+df['Delivery Postcode'].str[4:]
+df['Delivery Postcode'] = df['Delivery Postcode'].str.upper()
+df['Billing Postcode'] = df['Billing Postcode'].str[:4]+' '+df['Billing Postcode'].str[4:]
+df['Billing Postcode'] = df['Billing Postcode'].str.upper()
 df = df.drop(["is_first"], axis=1)
 df["Delivery Date"] = df["Delivery Date"].astype('datetime64')
 df['Delivery Date'] = df['Delivery Date'].dt.date
 df['Delivery Status'] = df['Delivery Status'].fillna(value='Unknown')
-df['Delivery Date'] = df['Delivery Date'].dropna()
+df['Delivery Date'] = df['Delivery Date'].fillna(value='0000-00-00')
 df['Dispatched Date'] = df['Dispatched Date'].astype('datetime64')
 df['Dispatched Date'] = df['Dispatched Date'].dt.date
 df = df.rename(columns={'Dispatched Date': 'Dispatch_Date', 'Order Date': 'Order_Date',

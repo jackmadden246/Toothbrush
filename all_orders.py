@@ -20,7 +20,3 @@ try:
 except exc.IntegrityError:
     # Ignore duplicates
     pass
-
-~                                                                                                                                                                      
-~                                                                                                                                                                      
-~                                            

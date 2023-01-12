@@ -1,2 +1,2 @@
 # Toothbrush
-This is a Xander Project involving a Python script on a toothbrush, which is scheduled in a cloud environment
+This is a Xander Project involving a Python script on toothbrush sales, which is scheduled in a cloud environment. I have mounted my S3 bucket to an EC2 instance, which is used to run the script, and then send the created files to S3. Once in S3, the files are cleaned, made into a dataframe, and then sent to my MariaDB database. I have then created an EC2 instance with an Apache HTTP Server to host the website (built using PHP and HTML). 

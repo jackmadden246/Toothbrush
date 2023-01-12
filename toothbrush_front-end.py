@@ -56,8 +56,7 @@ $result = $conn->query($sql);
 }
 ?>
 <p id = "p"> Please see below for what happens if you are the lucky person who resides at the lowest latitude and longitude:</p>
-<a href = "https://goo.gl/maps/fkhB8GKHRdQn8pUC7"> If you input the minimum latitude and longitude together, the result is the North Atlantic Ocean!!</a>
-
+<a href = "https://goo.gl/maps/hjt5xMrmJHwNFW6m9"> If you input the minimum latitude and longitude together, the result is the Atlantic Ocean!!</a>
 <h2 id = "h2"> Top insights about the database table that has the null toothbrush orders</h2>
 <p id = "p"> The null table can provide valuable insights about the age range of the customers who did not get thir orders delivered, and the size of those orders. Please see some of the insights below:
 
@@ -97,4 +96,4 @@ $conn->close();
 
 </body>
 </html>
-                                                                                       1,4           Top
+                                                                                    

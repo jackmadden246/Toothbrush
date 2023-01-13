@@ -8,7 +8,7 @@ import os
 def main():
     warnings.filterwarnings('ignore')
     # set path or use working directory
-    path = os.getcwd()+"/"
+    path = "/home/ec2-user/s3fs-fuse/mystaticwebsite5"+"/"
     # setting the size of the data
     n = np.random.choice(range(5000, 10000))
     # set if doing a full dump
@@ -44,7 +44,7 @@ def main():
 
     null_df = df[df['Delivery Date'].isnull()]
     # saving data to flat files
-    file_name = f'order_data_{dt.datetime.today().strftime("%Y%m%d_%H%M")}.csv'
+    file_name = f'order_data.csv'
     df.to_csv(f'{path}/{file_name}', index=False)
     print(f'Saved file {file_name} to {path}')
     null_df.to_csv(f'{path}/null_order_data.csv', index=False)
@@ -58,7 +58,7 @@ def read_existing_data(path):
         if file.endswith(".csv") and file.startswith("null"):
             null_df = pd.read_csv(path + file)
             null_df['Order Date'] = pd.to_datetime(null_df['Order Date'], errors='coerce')
-        elif file.endswith(".csv") and file.startswith("order_data_"):
+        elif file.endswith(".csv") and file.startswith("order_data"):
             df = pd.read_csv(path + file)
             while max_id > int(df['Order Number'].str[3:].max()):
                 continue

@@ -17,6 +17,7 @@ def lambda_handler(event, context):
     df['Delivery Postcode'] = df['Delivery Postcode'].str.replace("%20", "")
     df['Delivery Postcode'] = df['Delivery Postcode'].apply(lambda x: x[:3] + ' ' + x[-3:])
     df['Billing Postcode'] = df['Billing Postcode'].str.upper().where(df['Billing Postcode'].str.islower(), df['Billing Postcode'])
+    df['Delivery Postcode'] = df['Delivery Postcode'].str.upper().where(df['Delivery Postcode'].str.islower(), df['Delivery Postcode'])
     df['Billing Postcode'] = df['Billing Postcode'].apply(lambda x: x[:3] + ' ' + x[-3:])
     df['Billing Postcode'] = (df['Billing Postcode'].str.replace(whitespace_re, ' ')).where( df['Billing Postcode'].str.contains(whitespace_re),
                                                                                             df['Billing Postcode'])

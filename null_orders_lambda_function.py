@@ -14,7 +14,6 @@ def lambda_handler(event, context):
     df = pd.read_csv(file['Body'])
     df["Order Date"] = df["Order Date"].astype('datetime64')
     df['Order Date'] = df['Order Date'].dt.date
-    df['Delivery Postcode'] = df['Delivery Postcode'].astype(str)
     df['Delivery Postcode'] = df['Delivery Postcode'].str.replace("%20", "")
     df['Delivery Postcode'] = df['Delivery Postcode'].apply(lambda x: x[:3] + ' ' + x[-3:])
     df['Billing Postcode'] = df['Billing Postcode'].str.upper().where(df['Billing Postcode'].str.islower(), df['Billing Postcode'])

@@ -6,11 +6,13 @@ import dask.dataframe as dd
 df = dd.read_csv("/home/ec2-user/s3fs-fuse/mystaticwebsite5/order_data.csv")
 df["Order Date"] = df["Order Date"].astype('datetime64')
 df['Order Date'] = df['Order Date'].dt.date
-df['Delivery Postcode'] = df['Delivery Postcode'].str.replace("%", "")
-df['Delivery Postcode'] = df['Delivery Postcode'].str[:4]+' '+df['Delivery Postcode'].str[4:]
+df['Delivery Postcode'] = df['Delivery Postcode'].str.replace("%20", "")
+df['Delivery Postcode'] = df['Delivery Postcode'].apply(lambda x: x[:3] + ' ' + x[-3:], meta=('Delivery Postcode', 'object'))
 df['Delivery Postcode'] = df['Delivery Postcode'].str.upper()
-df['Billing Postcode'] = df['Billing Postcode'].str[:4]+' '+df['Billing Postcode'].str[4:]
-df['Billing Postcode'] = df['Billing Postcode'].str.upper()
+df['Billing Postcode'] = df['Billing Postcode'].str.upper().where(df['Billing Postcode'].str.islower(), df['Billing Postcode'])
+df['Delivery Postcode'] = df['Delivery Postcode'].str.upper().where(df['Delivery Postcode'].str.islower(), df['Delivery Postcode'])
+df['Billing Postcode'] = df['Billing Postcode'].apply(lambda x: x[:3] + ' ' + x[-3:], meta=('Billing Postcode', 'object'))
+df['Billing Postcode'] = (df['Billing Postcode'].str.replace(whitespace_re, ' ')).where( df['Billing Postcode'].str.contains(whitespace_re), df['Billing Postcode'])
 df = df.drop(["is_first"], axis=1)
 df["Delivery Date"] = df["Delivery Date"].astype('datetime64')
 df['Delivery Date'] = df['Delivery Date'].dt.date
